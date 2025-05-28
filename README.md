@@ -100,3 +100,6 @@ D2000000 00000000
 9. Check that you can access the item menu! Set items (0x21BA604) to 0 and you’re ready to play!
     - Item menu enables after a save and quit with boomerang, so to enable it i made you start with boomerang. From here on out you can toggle on and off all items at any time. With 3 exceptions...
 10. Place manual_phantomhourglass_carrot.apworld in custom_worlds, generate your archipelago, host a server and connect to it with the manual client. You are now ready to play!
+
+## Calculating item values
+I made a [spreadsheet](https://docs.google.com/spreadsheets/d/1vmAcfJQFSD-9Eqkp-Lbiaa-RWCv5VpM21hLvvyDSgFg/edit?usp=sharing) for calculating the value for each item address, copy it and you can use it! Set the count column under input to as many of the item you’ve gotten, and copy the decimal value in output to its corresponding address in the cheat list menu.

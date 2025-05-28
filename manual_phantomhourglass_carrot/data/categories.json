@@ -1,0 +1,64 @@
+{
+  "Item": {
+    "yaml_option": [
+      "randomize_items"
+    ]
+  },
+  "Sea Chart": {
+    "yaml_option": [
+      "randomize_sea_charts"
+    ]
+  },
+  "Sword": {
+    "yaml_option": [
+      "randomize_sword"
+    ]
+  },
+  "Ship Item": {
+    "yaml_option": [
+      "randomize_ship_items"
+    ]
+  },
+  "Spirit": {
+    "yaml_option": [
+      "randomize_spirits"
+    ]
+  },
+  "Filler": {
+    "hidden": true
+  },
+  "Damage": {
+    "hidden": true
+  },
+  "Bat": {
+    "hidden": true
+  },
+  "Boom": {
+    "hidden": true
+  },
+  "Bubble": {
+    "hidden": true
+  },
+  "Metal": {
+    "hidden": true
+  },
+  "Phantom": {
+    "hidden": true
+  },
+  "Range": {
+    "hidden": true
+  },
+  "SpiritC": {
+    "hidden": true
+  },
+  "SpiritP": {
+    "hidden": true
+  },
+  "SpiritW": {
+    "hidden": true
+  },
+  
+  "McGuffin": {
+    "hidden": true
+  }
+}

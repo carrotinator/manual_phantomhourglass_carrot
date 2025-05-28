@@ -1,0 +1,471 @@
+{
+  "Mercay Island": {
+    "connects_to": [
+      "Mercay Freedle Tunnel",
+      "Mercay Zora Cave",
+      "TotOK",
+      "Mercay Passage 1",
+      "Mercay Passage 3",
+      "SW Ocean East"
+    ],
+    "requires": [],
+    "starting": true
+  },
+  "Mercay Zora Cave": {
+    "requires": "|@Boom|",
+    "connects_to": []
+  },
+  "TotOK": {
+    "connects_to": [
+      "TotOK B1"
+    ],
+    "requires": []
+  },
+  "Mercay Freedle Tunnel": {
+    "requires": "|@Boom|",
+    "connects_to": []
+  },
+  "Mercay Passage 1": {
+    "requires": "|Sword| OR |@Boom| or |Mercay Passage Small Key:3|",
+    "connects_to": [
+      "Mercay Passage 2"
+    ]
+  },
+  "Mercay Passage 2": {
+    "requires": "|Mercay Passage Small Key:2|",
+    "connects_to": [
+      "Mercay Passage 3"
+    ]
+  },
+  "Mercay Passage 3": {
+    "requires": "|Mercay Passage Small Key:2|",
+    "connects_to": []
+  },
+  "TotOK B1": {
+    "requires": "|@SpiritP|",
+    "connects_to": [
+      "TotOK B2"
+    ]
+  },
+  "TotOK B2": {
+    "requires": "|TotOK Small Key:2|",
+    "connects_to": [
+      "TotOK B3"
+    ]
+  },
+  "TotOK B3": {
+    "requires": "|TotOK Small Key:3|",
+    "connects_to": [
+      "TotOK B3.5"
+    ]
+  },
+  "TotOK B4": {
+    "requires": "|@SpiritW|",
+    "connects_to": [
+      "TotOK B5",
+      "TotOK B5.5"
+    ]
+  },
+  "TotOK B5": {
+    "requires": "|TotOK Small Key:5|",
+    "connects_to": [
+      "TotOK B6"
+    ]
+  },
+  "TotOK B6": {
+    "requires": "(|@Bubble| or (|Sword| and (|@SpiritP:2| or (|@SpiritW:2| and |Shield|) or |Boomerang|))) and (|@Range| or |Hammer| or (|Sword| and |@SpiritC:2|))",
+    "connects_to": [
+      "TotOK Hourglass Room",
+      "TotOK Triforce Room"
+    ]
+  },
+  "TotOK Hourglass Room": {
+    "connects_to": [],
+    "requires": []
+  },
+  "TotOK Triforce Room": {
+    "connects_to": [
+      "TotOK B7"
+    ],
+    "requires": []
+  },
+  "TotOK B3.5": {
+    "requires": "|Grappling Hook| or |B3 Force Gem:3|",
+    "connects_to": [
+      "TotOK B4"
+    ]
+  },
+  "TotOK B5.5": {
+    "requires": "|TotOK Small Key:5| and (|Bombchus| or |Hammer|)",
+    "connects_to": [
+      "TotOK B6"
+    ]
+  },
+  "SW Ocean East": {
+    "connects_to": [
+      "SW Ocean West",
+      "Cannon Island",
+      "Ember Island",
+      "NW Ocean",
+      "NE Ocean",
+      "SE Ocean"
+    ],
+    "requires": "|SW Sea Chart|"
+  },
+  "SW Ocean West": {
+    "connects_to": [
+      "Molida Island",
+      "Spirit Island"
+    ],
+    "requires": "|Cannon| or (|Cyclone Slate| and (|Glyph Phi| or (|Glyph N| and |NW Sea Chart|)))"
+  },
+  "Cannon Island": {
+    "connects_to": [],
+    "requires": []
+  },
+  "Ember Island": {
+    "connects_to": [
+      "Temple of Fire"
+    ],
+    "requires": []
+  },
+  "NW Ocean": {
+    "connects_to": [
+      "SW Ocean West",
+      "Ghost Ship",
+      "Isle of Gusts",
+      "Bannan Island",
+      "Uncharted Island",
+      "Zauz's Island"
+    ],
+    "requires": "|NW Sea Chart| and (((|Glyph N| or |Glyph Phi|) and |Cyclone Slate|) or |Cannon|)"
+  },
+  "Temple of Fire": {
+    "connects_to": [
+      "Temple of Fire 2"
+    ],
+    "requires": []
+  },
+  "Temple of Fire 2": {
+    "connects_to": [
+      "Temple of Fire 3"
+    ],
+    "requires": "|ToF Small Key| and (|Sword| or |Bombs| or |Bombchus| or |Boomerang|)"
+  },
+  "Temple of Fire 3": {
+    "connects_to": [
+      "Temple of Fire 4"
+    ],
+    "requires": "|Bombs| or |Hammer| or (|Boomerang| and |Sword|) or (|Bombchus| and (|Bow| or |Grappling Hook| or (|Sword| and |@SpiritC:2|)))"
+  },
+  "Temple of Fire 4": {
+    "connects_to": [
+      "Temple of Fire 5"
+    ],
+    "requires": "|Boomerang| and |ToF Small Key:2|"
+  },
+  "Temple of Fire 5": {
+    "connects_to": [],
+    "requires": "|ToF Boss Key| and |ToF Small Key:3|"
+  },
+  "Molida Island": {
+    "connects_to": [
+      "Molida Cave Back",
+      "Molida North"
+    ],
+    "requires": "|Cannon|"
+  },
+  "Molida Cave Back": {
+    "connects_to": [],
+    "requires": "|@Damage|"
+  },
+  "Molida North": {
+    "connects_to": [
+      "Temple of Courage"
+    ],
+    "requires": "|Sun Key| and |Shovel|"
+  },
+  "Temple of Courage": {
+    "connects_to": [
+      "Temple of Courage Maze",
+      "Temple of Courage Final"
+    ],
+    "requires": "|Boomerang| and |@Damage|"
+  },
+  "Temple of Courage Maze": {
+    "connects_to": [
+      "Temple of Courage Final"
+    ],
+    "requires": "(|ToC Small Key:3| and (|Grappling Hook| or (|@Boom| and |ToC Square Crystal|))) or (|Hammer| and |ToC Square Crystal|) "
+  },
+  "Temple of Courage Final": {
+    "connects_to": [
+      "Temple of Courage Boss"
+    ],
+    "requires": "|Hammer| or (|Bow| and (|ToC Small Key:3| and (|Grappling Hook| or (|@Boom| and |ToC Square Crystal|))) or (|Hammer| and |ToC Square Crystal|))"
+  },
+  "Temple of Courage Boss": {
+    "connects_to": [
+      "Molida Archery"
+    ],
+    "requires": "|Bow| and |ToC Small Key:3| and |ToC Boss Key|"
+  },
+  "Molida Archery": {
+    "connects_to": [],
+    "requires": []
+  },
+  "Ghost Ship": {
+    "connects_to": [
+      "Ghost Ship 2"
+    ],
+    "requires": []
+  },
+  "Isle of Gusts": {
+    "connects_to": [
+      "Temple of Wind"
+    ],
+    "requires": []
+  },
+  "Bannan Island": {
+    "connects_to": [
+      "Bannan Island East"
+    ],
+    "requires": []
+  },
+  "Zauz's Island": {
+    "connects_to": [],
+    "requires": []
+  },
+  "Uncharted Island": {
+    "connects_to": [],
+    "requires": []
+  },
+  "Ghost Ship 2": {
+    "connects_to": [
+      "Ghost Ship 3"
+    ],
+    "requires": "|Boomerang| or |Grappling Hook| or |Hammer| or (|Bombs| and (|Bow| or (|Sword| and |@SpiritC:2|)))"
+  },
+  "Ghost Ship 3": {
+    "connects_to": [],
+    "requires": "|Ghost Ship Triangle Crystal|"
+  },
+  "Bannan Island East": {
+    "connects_to": [],
+    "requires": "|@Boom|"
+  },
+  "Temple of Wind": {
+    "connects_to": [
+	  "Temple of Wind Boss"
+	],
+    "requires": "|Shovel| and |@Bat|"
+  },
+  "Temple of Wind Boss": {
+    "connects_to": [],
+    "requires": "|ToW Boss Key| and |Bombs|"
+  },
+  "Spirit Island": {
+    "connects_to": [],
+    "requires": []
+  },
+  "TotOK B7": {
+    "connects_to": [
+      "TotOK B8"
+    ],
+    "requires": "|Spirit of Courage| or |Spirit of Courage (Boss)|"
+  },
+  "TotOK B8": {
+    "connects_to": [
+      "TotOK B9"
+    ],
+    "requires": []
+  },
+  "TotOK B9": {
+    "connects_to": [
+      "TotOK B10"
+    ],
+    "requires": "|Hammer| or |Bombchus| or (|Bombs| and |TotOK Triangle Crystal|)"
+  },
+  "TotOK B10": {
+    "connects_to": [
+      "TotOK B11"
+    ],
+    "requires": "|TotOK Round Crystal| and |TotOK Square Crystal| and |TotOK Triangle Crystal|"
+  },
+  "TotOK B11": {
+    "connects_to": [
+      "TotOK B12"
+    ],
+    "requires": "|TotOK Small Key:6| and |@Boom|"
+  },
+  "TotOK B12": {
+    "connects_to": [
+      "TotOK B13"
+    ],
+    "requires": "|Hammer| or |Shovel|"
+  },
+  "TotOK B13": {
+    "connects_to": [
+      "Bellum"
+    ],
+    "requires": "|B12 Force Gem:3|"
+  },
+  "SE Ocean": {
+    "connects_to": [
+      "Goron Island",
+      "Dee Ess Island",
+      "Isle of Frost",
+      "Harrow Island"
+    ],
+    "requires": "|SE Sea Chart|"
+  },
+  "NE Ocean": {
+    "connects_to": [
+      "Isle of the Dead",
+      "Maze Island",
+      "Isle of Ruins"
+    ],
+    "requires": "|NE Sea Chart| and (|SE Sea Chart| or ((|Cyclone Slate| and |Glyph Box|) and (|Glyph A| or (|Glyph N| and |NW Sea Chart|) or (|Glyph Phi| and (|Cannon| or |NW Sea Chart|)))))"
+  },
+  "Goron Island": {
+    "connects_to": [
+      "Goron Temple"
+    ],
+    "requires": "|Cannon|"
+  },
+  "Goron Temple": {
+    "connects_to": [
+      "Goron Temple B1"
+    ],
+    "requires": "(|Hammer| or |@Boom|) and |Shovel|"
+  },
+  "Goron Temple B1": {
+    "connects_to": [
+      "Goron Temple B2"
+    ],
+    "requires": "|@Boom|"
+  },
+  "Goron Temple B2": {
+    "connects_to": [
+      "Goron Temple Boss"
+    ],
+    "requires": "|Bombchus| or |Hammer|"
+  },
+  "Goron Temple Boss": {
+    "connects_to": [],
+    "requires": "|Bombchus| and |Goron Boss Key|"
+  },
+  "Isle of Frost": {
+    "connects_to": [
+      "Temple of Ice"
+    ],
+    "requires": "|Cannon|"
+  },
+  "Temple of Ice": {
+    "connects_to": [
+      "Temple of Ice Shortcut",
+      "Temple of Ice 3F"
+    ],
+    "requires": "|@Damage|"
+  },
+  "Temple of Ice 3F": {
+    "connects_to": [
+      "Temple of Ice Switch State"
+    ],
+    "requires": "(|Boomerang| or |@Boom|) and (|Bow| or |Grappling Hook| or |Bombs| or (|Bombchus| and |Hammer|))"
+  },
+  "Temple of Ice Switch State": {
+    "connects_to": [
+      "Temple of Ice Miniboss"
+    ],
+    "requires": "|@Boom|"
+  },
+  "Temple of Ice Miniboss": {
+    "connects_to": [
+      "Temple of Ice B1"
+    ],
+    "requires": "|ToI Small Key:3|"
+  },
+  "Temple of Ice Shortcut": {
+    "connects_to": [
+      "Temple of Ice B1"
+    ],
+    "requires": "|Hammer| and |Grappling Hook|"
+  },
+  "Temple of Ice B1": {
+    "connects_to": [
+      "Temple of Ice B1 2"
+    ],
+    "requires": "|Hammer| or |@Boom|"
+  },
+  "Temple of Ice B1 2": {
+    "connects_to": [
+      "Temple of Ice B2"
+    ],
+    "requires": "|@Boom|"
+  },
+  "Temple of Ice B2": {
+    "connects_to": [
+      "Temple of Ice Boss"
+    ],
+    "requires": "|Bow| and |Boomerang| and (|Hammer| or |ToI Small Key:2|)"
+  },
+  "Temple of Ice Boss": {
+    "connects_to": [],
+    "requires": "|ToI Boss Key|"
+  },
+  "Dee Ess Island": {
+    "connects_to": [],
+    "requires": []
+  },
+  "Harrow Island": {
+    "connects_to": [],
+    "requires": "|Shovel| and |Sword|"
+  },
+  "Isle of the Dead": {
+    "connects_to": [],
+    "requires": []
+  },
+  "Maze Island": {
+    "connects_to": [],
+    "requires": "|Sword|"
+  },
+  "Isle of Ruins": {
+    "connects_to": [
+      "Isle of Ruins Lowered Water"
+    ],
+    "requires": "|Regal Necklace| and |@Damage|"
+  },
+  "Isle of Ruins Lowered Water": {
+    "connects_to": [
+      "Mutoh's Temple"
+    ],
+    "requires": "|King's Key|"
+  },
+  "Mutoh's Temple": {
+    "connects_to": [
+      "Mutoh's Temple 2"
+    ],
+    "requires": []
+  },
+  "Mutoh's Temple 2": {
+    "connects_to": [
+      "Mutoh's Temple 3"
+    ],
+    "requires": "|Hammer|"
+  },
+  "Mutoh's Temple 3": {
+    "connects_to": [
+      "Eox"
+    ],
+    "requires": "|Bow| and |Mutoh's Small Key|"
+  },
+  "Eox": {
+    "connects_to": [],
+    "requires": "|Mutoh's Boss Key| and |Mutoh's Small Key:2|"
+  },
+  "Bellum": {
+    "connects_to": [],
+    "requires": "|@Metal:3| and |Phantom Hourglass|"
+  }
+}

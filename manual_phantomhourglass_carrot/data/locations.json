@@ -1,0 +1,2202 @@
+[
+  {
+    "name": "Sword Chest",
+    "category": [
+      "Mercay Island"
+    ],
+    "region": "Mercay Island",
+    "requires": []
+  },
+  {
+    "name": "Mercay Clear Rocks",
+    "category": [
+      "Mercay Island"
+    ],
+    "region": "Mercay Island",
+    "requires": []
+  },
+  {
+    "name": "Mercay Chu Bonk Tree",
+    "category": [
+      "Mercay Island"
+    ],
+    "region": "Mercay Island",
+    "requires": []
+  },
+  {
+    "name": "Oshus' Tree Dig",
+    "category": [
+      "Mercay Island"
+    ],
+    "region": "Mercay Island",
+    "requires": "|Shovel|"
+  },
+  {
+    "name": "Mercay Cuccoo Chest",
+    "category": [
+      "Mercay Island"
+    ],
+    "region": "Mercay Island",
+    "requires": []
+  },
+  {
+    "name": "Mercay North Bonk Tree",
+    "category": [
+      "Mercay Island"
+    ],
+    "region": "Mercay Island",
+    "requires": []
+  },
+  {
+    "name": "Mercay Passage Chest 1",
+    "category": [
+      "Mercay Island"
+    ],
+    "region": "Mercay Passage 1",
+    "requires": []
+  },
+  {
+    "name": "Mercay Passage Key Drop",
+    "category": [
+      "Mercay Island"
+    ],
+    "region": "Mercay Passage 2",
+    "requires": []
+  },
+  {
+    "name": "Mercay Passage Chest 2",
+    "category": [
+      "Mercay Island"
+    ],
+    "region": "Mercay Passage 2",
+    "requires": []
+  },
+  {
+    "name": "Mercay Passage Rat",
+    "category": [
+      "Mercay Island"
+    ],
+    "region": "Mercay Passage 3",
+    "requires": "|@Bat|"
+  },
+  {
+    "name": "Mercay Zora Cave Chest",
+    "category": [
+      "Mercay Island"
+    ],
+    "region": "Mercay Zora Cave",
+    "requires": []
+  },
+  {
+    "name": "Mercay Zora Cave South 1",
+    "category": [
+      "Mercay Island"
+    ],
+    "region": "Mercay Zora Cave",
+    "requires": "|Bow|"
+  },
+  {
+    "name": "Mercay Zora Cave South 2",
+    "category": [
+      "Mercay Island"
+    ],
+    "region": "Mercay Zora Cave",
+    "requires": "|Bow|"
+  },
+  {
+    "name": "Mercay Freedle Tunnel Chest",
+    "category": [
+      "Mercay Island"
+    ],
+    "region": "Mercay Freedle Tunnel",
+    "requires": "|@Range|"
+  },
+  {
+    "name": "Freedle Island Chest",
+    "category": [
+      "Mercay Island"
+    ],
+    "region": "Mercay Freedle Tunnel",
+    "requires": []
+  },
+  {
+    "name": "Freedle Item",
+    "category": [
+      "Mercay Island"
+    ],
+    "region": "Mercay Freedle Tunnel",
+    "requires": []
+  },
+  {
+    "name": "Mercay Yellow Guy Item",
+    "category": [
+      "Mercay Island"
+    ],
+    "region": "Mercay Island",
+    "requires": "|Courage Crest|"
+  },
+  {
+    "name": "Mercay Oshus Spirit Gem",
+    "category": [
+      "Mercay Island"
+    ],
+    "region": "Zauz's Island",
+    "requires": []
+  },
+  {
+    "name": "Shipyard Chest",
+    "category": [
+      "Mercay Island"
+    ],
+    "region": "Temple of Fire 5",
+    "requires": []
+  },
+  {
+    "name": "TotOK Phantom Hourglass",
+    "category": [
+      "TotOK"
+    ],
+    "region": "TotOK",
+    "requires": []
+  },
+  {
+    "name": "TotOK 1F Linebeck Key",
+    "category": [
+      "TotOK"
+    ],
+    "region": "TotOK",
+    "requires": []
+  },
+  {
+    "region": "TotOK",
+    "name": "TotOK 1F Empty Chest",
+    "category": [
+      "TotOK"
+    ],
+    "requires": []
+  },
+  {
+    "name": "TotOK 1F SW Chart Chest",
+    "category": [
+      "TotOK"
+    ],
+    "region": "TotOK",
+    "requires": "|TotOK Small Key:2|"
+  },
+  {
+    "name": "TotOK B1 Small Key",
+    "category": [
+      "TotOK"
+    ],
+    "region": "TotOK B1",
+    "requires": "|@Boom| or |Grappling Hook| or |Boomerang|"
+  },
+  {
+    "name": "TotOK B1 Bow Chest",
+    "category": [
+      "TotOK"
+    ],
+    "region": "TotOK B1",
+    "requires": "|Grappling Hook| and |Bow|"
+  },
+  {
+    "name": "TotOK B1 Phantom Chest",
+    "category": [
+      "TotOK"
+    ],
+    "region": "TotOK B1",
+    "requires": "|Sword:2| or |@Phantom| or (|Sword| and |@SpiritP:2|)"
+  },
+  {
+    "name": "TotOK B2 Small Key",
+    "category": [
+      "TotOK"
+    ],
+    "region": "TotOK B2",
+    "requires": "|@Range| or |@Boom| or |Hammer| or (|Sword| and |@SpiritC:2|)"
+  },
+  {
+    "name": "TotOK B2 Bombchu Chest",
+    "category": [
+      "TotOK"
+    ],
+    "region": "TotOK B2",
+    "requires": "|Bombchus| or (|Bombs| and |Hammer|)"
+  },
+  {
+    "name": "TotOK B2 Phantom Chest",
+    "category": [
+      "TotOK"
+    ],
+    "region": "TotOK B2",
+    "requires": "|Sword:2|"
+  },
+  {
+    "name": "TotOK B3 Force Gem Chest N",
+    "category": [
+      "TotOK"
+    ],
+    "region": "TotOK B3",
+    "requires": []
+  },
+  {
+    "name": "TotOK B3 Force Gem Chest SE",
+    "category": [
+      "TotOK"
+    ],
+    "region": "TotOK B3",
+    "requires": []
+  },
+  {
+    "name": "TotOK B3 Force Gem Chest SW",
+    "category": [
+      "TotOK"
+    ],
+    "region": "TotOK B3",
+    "requires": "|TotOK Small Key:4|"
+  },
+  {
+    "name": "TotOK B3 Key",
+    "category": [
+      "TotOK"
+    ],
+    "region": "TotOK B3",
+    "requires": []
+  },
+  {
+    "name": "TotOK B3 Bow Chest",
+    "category": [
+      "TotOK"
+    ],
+    "region": "TotOK B3",
+    "requires": "|Bow|"
+  },
+  {
+    "name": "TotOK B3 Phantom Chest",
+    "category": [
+      "TotOK"
+    ],
+    "region": "TotOK B3",
+    "requires": "|Grappling Hook|"
+  },
+  {
+    "name": "TotOK B3 NW Sea Chart",
+    "category": [
+      "TotOK"
+    ],
+    "region": "TotOK B3.5",
+    "requires": []
+  },
+  {
+    "name": "TotOK B4 Key",
+    "category": [
+      "TotOK"
+    ],
+    "region": "TotOK B4",
+    "requires": "|@Boom| or |Boomerang| or |Hammer|"
+  },
+  {
+    "name": "TotOK B4 Phantom Eye Chest",
+    "category": [
+      "TotOK"
+    ],
+    "region": "TotOK B4",
+    "requires": []
+  },
+  {
+    "name": "TotOK B4 Phantom Chest",
+    "category": [
+      "TotOK"
+    ],
+    "region": "TotOK B4",
+    "requires": "|Sword:2|"
+  },
+  {
+    "name": "TotOK B5 Chest",
+    "category": [
+      "TotOK"
+    ],
+    "region": "TotOK B5",
+    "requires": "|@Bubble| or (|Sword| and (|@SpiritP:2| or (|@SpiritW:2| and |Shield|) or |Boomerang|))"
+  },
+  {
+    "name": "TotOK B5.5 Chest",
+    "category": [
+      "TotOK"
+    ],
+    "region": "TotOK B5.5",
+    "requires": "|Shovel|"
+  },
+  {
+    "name": "TotOK B6 Bow Chest",
+    "category": [
+      "TotOK"
+    ],
+    "region": "TotOK B6",
+    "requires": "|Bow|"
+  },
+  {
+    "name": "TotOK B6 Phantom Chest",
+    "category": [
+      "TotOK"
+    ],
+    "region": "TotOK B6",
+    "requires": "|Sword:2|"
+  },
+  {
+    "name": "TotOK B6 Courage Crest",
+    "category": [
+      "TotOK"
+    ],
+    "region": "TotOK B6",
+    "requires": "|SW Sea Chart|",
+    "place_item": [
+	  "Courage Crest"
+	]
+  },
+  {
+    "name": "TotOK B7 Round Crystal Chest",
+    "region": "TotOK B7",
+    "category": [
+      "TotOK"
+    ],
+    "requires": []
+  },
+  {
+    "name": "TotOK B7 Peg Switch Chest",
+    "region": "TotOK B7",
+    "category": [
+      "TotOK"
+    ],
+    "requires": "|@Range|"
+  },
+  {
+    "name": "TotOK B7 Phantom Chest",
+    "region": "TotOK B7",
+    "category": [
+      "TotOK"
+    ],
+    "requires": "|Sword:2| or |@Phantom| or (|Sword| and |@SpiritP:2|)"
+  },
+  {
+    "name": "TotOK B8 Both Pedestals Chest",
+    "region": "TotOK B8",
+    "category": [
+      "TotOK"
+    ],
+    "requires": "|TotOK Triangle Crystal| and |TotOK Round Crystal| and |@Boom|"
+  },
+  {
+    "name": "TotOK B8 Phantom Chest",
+    "region": "TotOK B8",
+    "category": [
+      "TotOK"
+    ],
+    "requires": "|Sword:2| or |@Phantom| or (|Sword| and |@SpiritP:2|)"
+  },
+  {
+    "name": "TotOK B9 Triangle Crystal Chest",
+    "region": "TotOK B8",
+    "category": [
+      "TotOK"
+    ],
+    "requires": "|Hammer| or |TotOK Round Crystal| or (|TotOK Square Crystal| and (|Bombchus| or (|Bombs| and |TotOK Triangle Crystal|)))"
+  },
+  {
+    "name": "TotOK B9 Square Crystal",
+    "region": "TotOK B9",
+    "category": [
+      "TotOK"
+    ],
+    "requires": []
+  },
+  {
+    "name": "TotOK B9 Ghost Chest",
+    "region": "TotOK B9",
+    "category": [
+      "TotOK"
+    ],
+    "requires": []
+  },
+  {
+    "name": "TotOK B9 Phantom Chest",
+    "region": "TotOK B9",
+    "category": [
+      "TotOK"
+    ],
+    "requires": "|Sword:2| or |Hammer| or (|Bow| and |Boomerang|)"
+  },
+  {
+    "name": "TotOK B9 SE Sea Chart Chest",
+    "region": "TotOK B10",
+    "category": [
+      "TotOK"
+    ],
+    "requires": []
+  },
+  {
+    "name": "TotOK B10 Small Key",
+    "region": "TotOK B10",
+    "category": [
+      "TotOK"
+    ],
+    "requires": []
+  },
+  {
+    "name": "TotOK B10 Phantom Eye Chest",
+    "region": "TotOK B10",
+    "category": [
+      "TotOK"
+    ],
+    "requires": "|Grappling Hook| and |@Boom|"
+  },
+  {
+    "name": "TotOK B10 Hammer Switch Chest",
+    "region": "TotOK B10",
+    "category": [
+      "TotOK"
+    ],
+    "requires": "|Hammer| and |@Boom|"
+  },
+  {
+    "name": "TotOK B10 Phantom Chest",
+    "region": "TotOK B10",
+    "category": [
+      "TotOK"
+    ],
+    "requires": "|@Boom|"
+  },
+  {
+    "name": "TotOK B11 Phantom Eye Chest",
+    "region": "TotOK B11",
+    "category": [
+      "TotOK"
+    ],
+    "requires": []
+  },
+  {
+    "name": "TotOK B11 Phantom Chest",
+    "region": "TotOK B11",
+    "category": [
+      "TotOK"
+    ],
+    "requires": "|Sword:2|"
+  },
+  {
+    "name": "TotOK B12 Phantom Force Gem",
+    "region": "TotOK B12",
+    "category": [
+      "TotOK"
+    ],
+    "requires": []
+  },
+  {
+    "name": "TotOK B12 NW Force Gem Chest",
+    "region": "TotOK B12",
+    "category": [
+      "TotOK"
+    ],
+    "requires": []
+  },
+  {
+    "name": "TotOK B12 NE Force Gem Chest",
+    "region": "TotOK B12",
+    "category": [
+      "TotOK"
+    ],
+    "requires": []
+  },
+  {
+    "name": "TotOK B12 Hammer Chest",
+    "region": "TotOK B12",
+    "category": [
+      "TotOK"
+    ],
+    "requires": "|Hammer|"
+  },
+  {
+    "name": "TotOK B12 Phantom Eye Chest",
+    "region": "TotOK B12",
+    "category": [
+      "TotOK"
+    ],
+    "requires": []
+  },
+  {
+    "name": "TotOK B12 Phantom Chest",
+    "region": "TotOK B12",
+    "category": [
+      "TotOK"
+    ],
+    "requires": "|Sword:2|"
+  },
+  {
+    "name": "TotOK B13 NE Sea Chart",
+    "region": "TotOK B13",
+    "category": [
+      "TotOK"
+    ],
+    "requires": [],
+    "place_item_category": [
+      "McGuffin"
+    ]
+  },
+  {
+    "name": "Cannon Island Bee Chest",
+    "region": "Cannon Island",
+    "category": [
+      "Cannon Island"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Cannon Island Cave Chest",
+    "region": "Cannon Island",
+    "category": [
+      "Cannon Island"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Cannon Island Top Chest",
+    "region": "Cannon Island",
+    "category": [
+      "Cannon Island"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Cannon Island Bonk Tress",
+    "region": "Cannon Island",
+    "category": [
+      "Cannon Island"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Eddo Cannon",
+    "region": "Cannon Island",
+    "category": [
+      "Cannon Island"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Eddo Salvage Arm",
+    "region": "Cannon Island",
+    "category": [
+      "Cannon Island"
+    ],
+    "requires": "|Courage Crest|"
+  },
+  {
+    "region": "Ember Island",
+    "name": "Astrid Dig Spot 1",
+    "category": [
+      "Ember Island"
+    ],
+    "requires": "|Shovel|"
+  },
+  {
+    "region": "Ember Island",
+    "name": "Astrid Dig Spot 2",
+    "category": [
+      "Ember Island"
+    ],
+    "requires": "|Shovel|"
+  },
+  {
+    "name": "Ember Summit Chest",
+    "region": "Ember Island",
+    "category": [
+      "Ember Island"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Ember Island Chest",
+    "region": "Ember Island",
+    "category": [
+      "Ember Island"
+    ],
+    "requires": "|Grappling Hook|"
+  },
+  {
+    "name": "Ember Summit Dig Spot",
+	"region": "Ember Island",
+    "category": [
+      "Ember Island"
+    ],
+    "requires": "|Shovel|"
+  },
+  {
+    "name": "Ember Astrid after Wind Temple",
+	"region": "Temple of Wind Boss",
+    "category": [
+      "Ember Island"
+    ],
+    "requires": "|Shovel|"
+  },
+  {
+    "region": "Temple of Fire",
+    "name": "ToF 1F Keese Chest",
+    "category": [
+      "Temple of Fire"
+    ],
+    "requires": "|@Bat|"
+  },
+  {
+    "name": "ToF 1F Maze Chest",
+    "region": "Temple of Fire",
+    "category": [
+      "Temple of Fire"
+    ],
+    "requires": "|ToF Small Key|"
+  },
+  {
+    "name": "ToF 2F Boomerang Chest",
+    "region": "Temple of Fire 2",
+    "category": [
+      "Temple of Fire"
+    ],
+    "requires": []
+  },
+  {
+    "region": "Temple of Fire 3",
+    "name": "ToF 2F Keese Chest",
+    "category": [
+      "Temple of Fire"
+    ],
+    "requires": []
+  },
+  {
+    "name": "ToF 2F Rat Key",
+    "region": "Temple of Fire 3",
+    "category": [
+      "Temple of Fire"
+    ],
+    "requires": []
+  },
+  {
+    "name": "ToF 3F Switch Key",
+    "region": "Temple of Fire 4",
+    "category": [
+      "Temple of Fire"
+    ],
+    "requires": []
+  },
+  {
+    "name": "ToF 3F Boss Key Chest",
+    "region": "Temple of Fire 4",
+    "category": [
+      "Temple of Fire"
+    ],
+    "requires": "|ToF Small Key:3|"
+  },
+  {
+    "name": "ToF Blaaz HC",
+    "region": "Temple of Fire 5",
+    "category": [
+      "Temple of Fire"
+    ],
+    "requires": []
+  },
+  {
+    "name": "ToF Spirit of Power",
+    "region": "Temple of Fire 5",
+    "category": [
+      "Temple of Fire"
+    ],
+    "requires": [],
+    "place_item_category": [
+      "McGuffin"
+    ]
+  },
+  {
+    "name": "Molida Romaros Tree Dig",
+    "region": "Molida Island",
+    "category": [
+      "Molida Island"
+    ],
+    "requires": "|Shovel|"
+  },
+  {
+    "name": "Molida Wayfarer's Hideout Chest",
+    "region": "Molida Island",
+    "category": [
+      "Molida Island"
+    ],
+    "requires": "|Shovel|"
+  },
+  {
+    "name": "Molida Cave Grapple",
+    "region": "Molida Island",
+    "category": [
+      "Molida Island"
+    ],
+    "requires": "|Grappling Hook|"
+  },
+  {
+    "name": "Molida Cave Zora Dig",
+    "region": "Molida Island",
+    "category": [
+      "Molida Island"
+    ],
+    "requires": "|Shovel|"
+  },
+  {
+    "name": "Molida Shovel Chest",
+    "region": "Molida Cave Back",
+    "category": [
+      "Molida Island"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Molida Shovel Room Dig",
+    "region": "Molida Cave Back",
+    "category": [
+      "Molida Island"
+    ],
+    "requires": "|Shovel|"
+  },
+  {
+    "name": "Molida Cliff Chest",
+    "region": "Molida Cave Back",
+    "category": [
+      "Molida Island"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Molida Cliff Cuccoo Dig",
+    "region": "Molida Cave Back",
+    "category": [
+      "Molida Island"
+    ],
+    "requires": "|Grappling Hook| and |Shovel|"
+  },
+  {
+    "name": "Molida North Hole Chest",
+    "region": "Molida North",
+    "category": [
+      "Molida Island"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Molida North Grapple Chest",
+    "region": "Molida North",
+    "category": [
+      "Molida Island"
+    ],
+    "requires": "|Grappling Hook|"
+  },
+  {
+    "name": "Molida Archery 1700",
+    "region": "Molida Archery",
+    "category": [
+      "Molida Island"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Molida Archery 2000",
+    "region": "Molida Archery",
+    "category": [
+      "Molida Island"
+    ],
+    "requires": []
+  },
+  {
+    "name": "ToC Bomb Alcove",
+    "region": "Temple of Courage",
+    "category": [
+      "Temple of Courage"
+    ],
+    "requires": "|@Boom|"
+  },
+  {
+    "name": "ToC Entrance Key Chest",
+    "region": "Temple of Courage",
+    "category": [
+      "Temple of Courage"
+    ],
+    "requires": []
+  },
+  {
+    "name": "ToC Map Chest 1",
+    "region": "Temple of Courage",
+    "category": [
+      "Temple of Courage"
+    ],
+    "requires": "(|ToC Small Key:3| or |Hammer|) and |@Boom|"
+  },
+  {
+    "name": "ToC Map Chest 2",
+    "region": "Temple of Courage",
+    "category": [
+      "Temple of Courage"
+    ],
+    "requires": "(|ToC Small Key:3| or |Hammer|) and |@Boom|"
+  },
+  {
+    "name": "ToC Pols Key 1",
+    "region": "Temple of Courage",
+    "category": [
+      "Temple of Courage"
+    ],
+    "requires": "(|ToC Small Key:3| and |@Boom|) or |Hammer|"
+  },
+  {
+    "name": "ToC Lazer Maze Chest",
+    "region": "Temple of Courage",
+    "category": [
+      "Temple of Courage"
+    ],
+    "requires": "(|@Boom| or |Hammer|) and |ToC Small Key:3|",
+    "place_item": [
+      "ToC Square Crystal"
+    ]
+  },
+  {
+    "name": "ToC Invisible Maze Chest",
+    "region": "Temple of Courage Maze",
+    "category": [
+      "Temple of Courage"
+    ],
+    "requires": []
+  },
+  {
+    "name": "ToC Bow Chest",
+    "region": "Temple of Courage Maze",
+    "category": [
+      "Temple of Courage"
+    ],
+    "requires": []
+  },
+  {
+    "name": "ToC Moving Platform Chest",
+    "region": "Temple of Courage",
+    "category": [
+      "Temple of Courage"
+    ],
+    "requires": "|Bow| and ((|Hammer| and |@Boom|) or (|ToC Small Key:3| and (|Grappling Hook| or (|@Boom| and |ToC Square Crystal|))) or (|Hammer| and |ToC Square Crystal|))"
+  },
+  {
+    "name": "ToC Spike Corridor Chest",
+    "region": "Temple of Courage Final",
+    "category": [
+      "Temple of Courage"
+    ],
+    "requires": []
+  },
+  {
+    "name": "ToC Secret Bowshot Chest",
+    "region": "Temple of Courage Final",
+    "category": [
+      "Temple of Courage"
+    ],
+    "requires": "|Bow|"
+  },
+  {
+    "name": "ToC Pols Key 2",
+    "region": "Temple of Courage Final",
+    "category": [
+      "Temple of Courage"
+    ],
+    "requires": "|Bow|"
+  },
+  {
+    "name": "ToC Boss Key Chest",
+    "region": "Temple of Courage Final",
+    "category": [
+      "Temple of Courage"
+    ],
+    "requires": "|Bow| and |ToC Small Key:3|"
+  },
+  {
+    "name": "ToC Before Boss Chest",
+    "region": "Temple of Courage Boss",
+    "category": [
+      "Temple of Courage"
+    ],
+    "requires": "|@Boom|"
+  },
+  {
+    "name": "ToC Spirit of Courage",
+    "region": "Temple of Courage Boss",
+    "victory": false,
+    "category": [
+      "Temple of Courage"
+    ],
+    "requires": [],
+    "place_item_category": [
+      "McGuffin"
+    ]
+  },
+  {
+    "name": "ToC Crayk HC",
+    "region": "Temple of Courage Boss",
+    "category": [
+      "Temple of Courage"
+    ],
+    "requires": []
+  },
+  {
+    "name": "ToC Sand of Time",
+    "region": "Temple of Courage Boss",
+    "category": [
+      "Temple of Courage"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Ghost Ship 1st Chest",
+    "region": "Ghost Ship",
+    "category": [
+      "Ghost Ship"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Ghost Ship 3rd Sister Chest",
+    "region": "Ghost Ship 2",
+    "category": [
+      "Ghost Ship"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Ghost Ship 2nd Sister Chest Left",
+    "region": "Ghost Ship 3",
+    "category": [
+      "Ghost Ship"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Ghost Ship 2nd Sister Chest Right",
+    "region": "Ghost Ship 3",
+    "category": [
+      "Ghost Ship"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Ghost Ship B2 Spike Chest",
+    "region": "Ghost Ship 3",
+    "category": [
+      "Ghost Ship"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Ghost Ship B3 Chest",
+    "region": "Ghost Ship 3",
+    "category": [
+      "Ghost Ship"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Ghost Ship Cubus Sisters HC",
+    "region": "Ghost Ship 3",
+    "category": [
+      "Ghost Ship"
+    ],
+    "requires": "|Sword|"
+  },
+  {
+    "name": "Ghost Ship Ghost Key",
+    "region": "Ghost Ship 3",
+    "category": [
+      "Ghost Ship"
+    ],
+    "requires": "|Sword|",
+    "place_item_category": [
+      "McGuffin"
+    ]
+  },
+  {
+    "name": "Ghost Ship Tetra",
+    "region": "Ghost Ship 3",
+    "category": [
+      "Ghost Ship"
+    ],
+    "requires": "|Ghost Key| and |Sword|"
+  },
+  {
+    "name": "Bannan Island Grapple Chest 1",
+    "region": "Bannan Island",
+    "category": [
+      "Bannan Island"
+    ],
+    "requires": "|Grappling Hook|"
+  },
+  {
+    "name": "Bannan Island Doorstep Dig",
+    "region": "Bannan Island",
+    "category": [
+      "Bannan Island"
+    ],
+    "requires": "|Shovel|"
+  },
+  {
+    "name": "Bannan Island Fishing Rod",
+    "region": "Bannan Island",
+    "category": [
+      "Bannan Island"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Bannan East Grapple Chest Left",
+    "region": "Bannan Island East",
+    "category": [
+      "Bannan Island"
+    ],
+    "requires": "|Grappling Hook|"
+  },
+  {
+    "name": "Bannan East Grapple Chest Right",
+    "region": "Bannan Island East",
+    "category": [
+      "Bannan Island"
+    ],
+    "requires": "|Grappling Hook|"
+  },
+  {
+    "name": "Bannan East Dig Between Chests",
+    "region": "Bannan Island East",
+    "category": [
+      "Bannan Island"
+    ],
+    "requires": "|Grappling Hook| and |Shovel|"
+  },
+  {
+    "name": "Bannan Island Cannon Game",
+    "region": "Bannan Island East",
+    "category": [
+      "Bannan Island"
+    ],
+    "requires": "|Cannon|"
+  },
+  {
+    "name": "Unhcarted Eye Dig",
+    "region": "Uncharted Island",
+    "category": [
+      "Uncharted Island"
+    ],
+    "requires": "|Shovel|"
+  },
+  {
+    "name": "Uncharted Grapple",
+    "region": "Uncharted Island",
+    "category": [
+      "Uncharted Island"
+    ],
+    "requires": "|Sword| and |Grappling Hook|"
+  },
+  {
+    "name": "Uncharted Golden Chief",
+    "region": "Uncharted Island",
+    "category": [
+      "Uncharted Island"
+    ],
+    "requires": "|Sword|"
+  },
+  {
+    "name": "Frog N",
+    "region": "NW Ocean",
+    "category": [
+      "Ocean NW"
+    ],
+    "requires": "|Cannon|"
+  },
+  {
+    "name": "Frog A",
+    "region": "SW Ocean East",
+    "category": [
+      "Ocean SW"
+    ],
+    "requires": "|Cannon|"
+  },
+  {
+    "name": "Frog Phi",
+    "region": "SW Ocean West",
+    "category": [
+      "Ocean SW"
+    ],
+    "requires": "|Cannon|"
+  },
+  {
+    "name": "Zauz Cuccoo Chest",
+    "region": "Zauz's Island",
+    "category": [
+      "Zauz's Island"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Zauz's Dig",
+    "region": "Zauz's Island",
+    "category": [
+      "Zauz's Island"
+    ],
+    "requires": "|Shovel|"
+  },
+  {
+    "name": "Zauz's Item",
+    "region": "Zauz's Island",
+    "category": [
+      "Zauz's Island"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Gusts Wayfarers Hideout Chest",
+    "region": "Isle of Gusts",
+    "category": [
+      "Isle of Gusts"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Gusts Plains Dig",
+    "region": "Isle of Gusts",
+    "category": [
+      "Isle of Gusts"
+    ],
+    "requires": "|Shovel|"
+  },
+  {
+    "name": "Gusts Cave Chest 1",
+    "region": "Isle of Gusts",
+    "category": [
+      "Isle of Gusts"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Gusts Cave Chest 2",
+    "region": "Isle of Gusts",
+    "category": [
+      "Isle of Gusts"
+    ],
+    "requires": "|Sword| or |Bow| or |Bombs| or |Bombchus| or |Grappling Hook| or |Hammer|"
+  },
+  {
+    "name": "Gusts SE Cliff Dig",
+    "region": "Isle of Gusts",
+    "category": [
+      "Isle of Gusts"
+    ],
+    "requires": "|Shovel|"
+  },
+  {
+    "name": "Gusts SW Cliff Chest",
+    "region": "Isle of Gusts",
+    "category": [
+      "Isle of Gusts"
+    ],
+    "requires": "|Shovel|"
+  },
+  {
+    "name": "Gusts NW Dig",
+    "region": "Isle of Gusts",
+    "category": [
+      "Isle of Gusts"
+    ],
+    "requires": "|Shovel|"
+  },
+  {
+    "name": "Gusts Worm Chest",
+    "region": "Isle of Gusts",
+    "category": [
+      "Isle of Gusts"
+    ],
+    "requires": "|Shovel|"
+  },
+  {
+    "region": "Temple of Wind",
+    "name": "ToW B1 Ledge Chest",
+    "category": [
+      "Temple of Wind"
+    ],
+    "requires": []
+  },
+  {
+    "name": "ToW B1 Corner Chest",
+    "region": "Temple of Wind",
+    "category": [
+      "Temple of Wind"
+    ],
+    "requires": []
+  },
+  {
+    "name": "ToW B2 Worm Chest",
+    "region": "Temple of Wind",
+    "category": [
+      "Temple of Wind"
+    ],
+    "requires": []
+  },
+  {
+    "name": "ToW B2 Secret Wall",
+    "region": "Temple of Wind",
+    "category": [
+      "Temple of Wind"
+    ],
+    "requires": "|@Boom|"
+  },
+  {
+    "name": "ToW Small Key Drop",
+    "region": "Temple of Wind",
+    "category": [
+      "Temple of Wind"
+    ],
+    "requires": []
+  },
+  {
+    "name": "ToW Bomb Chest",
+    "region": "Temple of Wind",
+    "category": [
+      "Temple of Wind"
+    ],
+    "requires": "|ToW Small Key|"
+  },
+  {
+    "name": "ToW Boss Key Chest",
+    "region": "Temple of Wind",
+    "category": [
+      "Temple of Wind"
+    ],
+    "requires": "|Bombs|"
+  },
+  {
+    "name": "ToW Cyclok Sand of Hours",
+    "region": "Temple of Wind Boss",
+    "category": [
+      "Temple of Wind"
+    ],
+    "requires": []
+  },
+  {
+    "name": "ToW Cyclok HC",
+    "region": "Temple of Wind Boss",
+    "category": [
+      "Temple of Wind"
+    ],
+    "requires": []
+  },
+  {
+    "name": "ToW Cyclok Spirit of Wisdom",
+    "region": "Temple of Wind Boss",
+    "category": [
+      "Temple of Wind"
+    ],
+    "requires": [],
+    "place_item_category": [
+      "McGuffin"
+    ]
+  },
+  {
+    "name": "Nyave's Treasure",
+    "region": "SW Ocean West",
+    "category": [
+      "Ocean SW"
+    ],
+    "requires": "|@Damage|"
+  },
+  {
+    "name": "Spirit Island Entrance Chest",
+    "region": "Spirit Island",
+    "category": [
+      "Spirit Island"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Spirit Island Gauntlet Chest",
+    "region": "Spirit Island",
+    "category": [
+      "Spirit Island"
+    ],
+    "requires": "|Grappling Hook|"
+  },
+  {
+    "name": "Spirit of Power Level 1",
+    "region": "Spirit Island",
+    "category": [
+      "Spirit Island"
+    ],
+    "requires": "|@SpiritP| and |Power Gem:10|"
+  },
+  {
+    "name": "Spirit of Wisdom Level 1",
+    "region": "Spirit Island",
+    "category": [
+      "Spirit Island"
+    ],
+    "requires": "|@SpiritW| and |Wisdom Gem:10|"
+  },
+  {
+    "name": "Spirit of Courage Level 1",
+    "region": "Molida Archery",
+    "category": [
+      "Spirit Island"
+    ],
+    "requires": "|@SpiritC| and |Courage Gem:10|"
+  },
+  {
+    "name": "Spirit of Power Level 2",
+    "region": "Spirit Island",
+    "category": [
+      "Spirit Island"
+    ],
+    "requires": "|@SpiritP| and |Power Gem:20|"
+  },
+  {
+    "name": "Spirit of Wisdom Level 2",
+    "region": "Spirit Island",
+    "category": [
+      "Spirit Island"
+    ],
+    "requires": "|@SpiritW| and |Wisdom Gem:20|"
+  },
+  {
+    "name": "Spirit of Courage Level 2",
+    "region": "Molida Archery",
+    "category": [
+      "Spirit Island"
+    ],
+    "requires": "|@SpiritC| and |Courage Gem:20|"
+  },
+  {
+    "name": "Prince of Red Lions",
+    "region": "NW Ocean",
+    "category": [
+      "Ocean NW"
+    ],
+    "requires": "|Sword|"
+  },
+  {
+    "name": "IotD Rupore Cave 1",
+    "region": "Isle of the Dead",
+    "category": [
+      "Isle of the Dead"
+    ],
+    "requires": "|@Boom|"
+  },
+  {
+    "name": "IotD Rupore Cave 2",
+    "region": "Isle of the Dead",
+    "category": [
+      "Isle of the Dead"
+    ],
+    "requires": "|@Boom|"
+  },
+  {
+    "name": "IotD Rupore Cave 3",
+    "region": "Isle of the Dead",
+    "category": [
+      "Isle of the Dead"
+    ],
+    "requires": "|@Boom|"
+  },
+  {
+    "name": "IotD Rupore Cave 4",
+    "region": "Isle of the Dead",
+    "category": [
+      "Isle of the Dead"
+    ],
+    "requires": "|@Boom|"
+  },
+  {
+    "name": "IotD Hole Chest",
+    "region": "Isle of the Dead",
+    "category": [
+      "Isle of the Dead"
+    ],
+    "requires": "|Shovel| and |@Boom|"
+  },
+  {
+    "name": "IotD Face Chest",
+    "region": "Isle of the Dead",
+    "category": [
+      "Isle of the Dead"
+    ],
+    "requires": "|Shovel|"
+  },
+  {
+    "name": "IotD Temple Chest",
+    "region": "Isle of the Dead",
+    "category": [
+      "Isle of the Dead"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Ruins NW Like Like Dig",
+    "region": "Isle of Ruins",
+    "category": [
+      "Isle of Ruins"
+    ],
+    "requires": "|Shovel|"
+  },
+  {
+    "name": "Ruins Lowered Water Cave Chest",
+    "region": "Isle of Ruins Lowered Water",
+    "category": [
+      "Isle of Ruins"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Ruins Lowered Water Boulder Chest",
+    "region": "Isle of Ruins Lowered Water",
+    "category": [
+      "Isle of Ruins"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Ruins Lowered Water Maze Chest",
+    "region": "Isle of Ruins Lowered Water",
+    "category": [
+      "Isle of Ruins"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Ruins Boulder Above Max Chest",
+    "region": "Isle of Ruins Lowered Water",
+    "category": [
+      "Isle of Ruins"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Ruins Behind Mutoh's Temple Chest",
+    "region": "Isle of Ruins Lowered Water",
+    "category": [
+      "Isle of Ruins"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Ruins Outside Doyland's Chest",
+    "region": "Isle of Ruins Lowered Water",
+    "category": [
+      "Isle of Ruins"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Mutoh's Like Like Maze Chest",
+    "region": "Mutoh's Temple",
+    "category": [
+      "Mutoh's Temple"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Mutoh's Hammer Chest",
+    "region": "Mutoh's Temple",
+    "category": [
+      "Mutoh's Temple"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Mutoh's B2 Lower Chest",
+    "region": "Mutoh's Temple 2",
+    "category": [
+      "Mutoh's Temple"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Mutoh's B2 Upper Chest",
+    "region": "Mutoh's Temple 2",
+    "category": [
+      "Mutoh's Temple"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Mutoh's Lower Water Chest",
+    "region": "Mutoh's Temple 3",
+    "category": [
+      "Mutoh's Temple"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Mutoh's Boulder Chest",
+    "region": "Mutoh's Temple 3",
+    "category": [
+      "Mutoh's Temple"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Mutoh's Boss Key Chest",
+    "region": "Mutoh's Temple 3",
+    "category": [
+      "Mutoh's Temple"
+    ],
+    "requires": "|Mutoh's Small Key:2|"
+  },
+  {
+    "name": "Eox Chest",
+    "region": "Eox",
+    "category": [
+      "Mutoh's Temple"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Eox Sand",
+    "region": "Eox",
+    "category": [
+      "Mutoh's Temple"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Aquanine",
+    "region": "Eox",
+    "category": [
+      "Mutoh's Temple"
+    ],
+    "requires": [],
+    "place_item_category": [
+      "McGuffin"
+    ]
+  },
+  {
+    "name": "Maze East Chest",
+    "region": "Maze Island",
+    "category": [
+      "Maze Island"
+    ],
+    "requires": "|@Boom|"
+  },
+  {
+    "name": "Maze Beginner",
+    "region": "Maze Island",
+    "category": [
+      "Maze Island"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Maze Normal",
+    "region": "Maze Island",
+    "category": [
+      "Maze Island"
+    ],
+    "requires": "|Bow|"
+  },
+  {
+    "name": "Maze Expert",
+    "region": "Maze Island",
+    "category": [
+      "Maze Island"
+    ],
+    "requires": "|Bow| and |Grappling Hook|"
+  },
+  {
+    "name": "Maze Bonus",
+    "region": "Maze Island",
+    "category": [
+      "Maze Island"
+    ],
+    "requires": "|Bow| and |Grappling Hook|"
+  },
+  {
+    "name": "Kill Bellumbeck",
+    "region": "Bellum",
+    "victory": true,
+    "category": [
+      "Goal"
+    ],
+    "requires": "|Bow| and |Grappling Hook| and |Cannon| and |Sword:2| and |@SpiritC|"
+  },
+  {
+    "name": "Man of Smiles Normal Gift",
+    "region": "NE Ocean",
+    "category": [
+      "Ocean NE"
+    ],
+    "requires": "|@Damage|"
+  },
+  {
+    "name": "Man of Smiles Mysterious Gift",
+    "region": "NE Ocean",
+    "category": [
+      "Ocean NE"
+    ],
+    "requires": "|@Damage|"
+  },
+  {
+    "name": "Frog Box",
+    "region": "NE Ocean",
+    "category": [
+      "Ocean NE"
+    ],
+    "requires": "|Cannon|"
+  },
+  {
+    "name": "Goron Grapple Chest",
+    "region": "Goron Island",
+    "category": [
+      "Goron Island"
+    ],
+    "requires": "|Grappling Hook|"
+  },
+  {
+    "name": "Goron Elder Dig",
+    "region": "Goron Island",
+    "category": [
+      "Goron Island"
+    ],
+    "requires": "|Shovel|"
+  },
+  {
+    "name": "Goron Shoot Cliff Chus",
+    "region": "Goron Island",
+    "category": [
+      "Goron Island"
+    ],
+    "requires": "|Shovel| and (|Bow| or |Grappling Hook| or |Hammer|)"
+  },
+  {
+    "name": "Goron Quiz",
+    "region": "Goron Island",
+    "category": [
+      "Goron Island"
+    ],
+    "requires": "|Shovel| and (|Bow| or |Grappling Hook| or |Hammer|)"
+  },
+  {
+    "name": "Goron North Bombchu Chest",
+    "region": "Goron Island",
+    "category": [
+      "Goron Island"
+    ],
+    "requires": "|Bombchus| or |Hammer|"
+  },
+  {
+    "name": "Goron North Spike Chest",
+    "region": "Goron Island",
+    "category": [
+      "Goron Island"
+    ],
+    "requires": "|@Boom|"
+  },
+  {
+    "name": "Goron North Dead End Chest",
+    "region": "Goron Island",
+    "category": [
+      "Goron Island"
+    ],
+    "requires": "|@Boom|"
+  },
+  {
+    "name": "Goron 1F Switch Chest",
+    "region": "Goron Temple",
+    "category": [
+      "Goron Temple"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Goron 1F Bow Chest",
+    "region": "Goron Temple",
+    "category": [
+      "Goron Temple"
+    ],
+    "requires": "|Bow|"
+  },
+  {
+    "name": "Goron B1 Bombchu Chest",
+    "region": "Goron Temple B1",
+    "category": [
+      "Goron Temple"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Goron B1 Snake Chest",
+    "region": "Goron Temple B1",
+    "category": [
+      "Goron Temple"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Goron B3 Miblin Chest",
+    "region": "Goron Temple B2",
+    "category": [
+      "Goron Temple"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Goron B2 Snake Chest",
+    "region": "Goron Temple B2",
+    "category": [
+      "Goron Temple"
+    ],
+    "requires": "|Bombchus|"
+  },
+  {
+    "name": "Goron B2 Boss Key Chest",
+    "region": "Goron Temple B2",
+    "category": [
+      "Goron Temple"
+    ],
+    "requires": "|Bombchus|"
+  },
+  {
+    "name": "Goron Dongorongoro Heart Container",
+    "region": "Goron Temple Boss",
+    "category": [
+      "Goron Temple"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Goron Dongorongoro Sand",
+    "region": "Goron Temple Boss",
+    "category": [
+      "Goron Temple"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Goron Crimsonine",
+    "region": "Goron Temple Boss",
+    "category": [
+      "Goron Temple"
+    ],
+    "requires": [],
+    "place_item_category": [
+      "McGuffin"
+    ]
+  },
+  {
+    "name": "Mutoh's Letter",
+    "region": "Eox",
+    "category": [
+      "Post"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Jolene's Letter",
+    "region": "Bannan Island",
+    "category": [
+      "Post"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Salvatore's Letter",
+    "region": "Bannan Island East",
+    "category": [
+      "Post"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Linebeck's Letter",
+    "region": "Ghost Ship 3",
+    "category": [
+      "Post"
+    ],
+    "requires": "|Ghost Key| and |Sword|"
+  },
+  {
+    "name": "Frog W",
+    "region": "SE Ocean",
+    "category": [
+      "Ocean SE"
+    ],
+    "requires": "|Cannon|"
+  },
+  {
+    "name": "Frog Omega",
+    "region": "SE Ocean",
+    "category": [
+      "Ocean SE"
+    ],
+    "requires": "|Cannon|"
+  },
+  {
+    "name": "Give Hero's New Clothes",
+    "region": "NW Ocean",
+    "category": [
+      "Ocean NW"
+    ],
+    "requires": "|Hero's New Clothes|"
+  },
+  {
+    "name": "Give Kaleidoscope",
+    "region": "SE Ocean",
+    "category": [
+      "Ocean SE"
+    ],
+    "requires": "|Kaleidoscope|"
+  },
+  {
+    "name": "Give Guard Notebook",
+    "region": "SW Ocean West",
+    "category": [
+      "Ocean SW"
+    ],
+    "requires": "|Guard Notebook|"
+  },
+  {
+    "name": "Bannan Island Give Jolene's Letter",
+    "region": "Bannan Island",
+    "category": [
+      "Bannan Island"
+    ],
+    "requires": "|Jolene's Letter|"
+  },
+  {
+    "name": "Defeat Jolene",
+    "region": "Molida Archery",
+    "category": [
+      "Ocean SE"
+    ],
+    "requires": "|Sword| and |NW Sea Chart|"
+  },
+  {
+    "name": "Bannan Chest Give Wood Heart ",
+    "region": "Bannan Island",
+    "category": [
+      "Bannan Island"
+    ],
+    "requires": "|Wood Heart| and |Cannon| and |SE Sea Chart|"
+  },
+  {
+    "name": "IoF Grapple Chest",
+    "region": "Isle of Frost",
+    "category": [
+      "Isle of Frost"
+    ],
+    "requires": "|Grappling Hook|"
+  },
+  {
+    "name": "IoF South House Dig",
+    "region": "Isle of Frost",
+    "category": [
+      "Isle of Frost"
+    ],
+    "requires": "|Shovel|"
+  },
+  {
+    "name": "IoF Chief Dig",
+    "region": "Isle of Frost",
+    "category": [
+      "Isle of Frost"
+    ],
+    "requires": "|Shovel|"
+  },
+  {
+    "name": "IoF Estate Sign Dig",
+    "region": "Isle of Frost",
+    "category": [
+      "Isle of Frost"
+    ],
+    "requires": "|Shovel|"
+  },
+  {
+    "name": "IoF Dobo (SW) Dig",
+    "region": "Isle of Frost",
+    "category": [
+      "Isle of Frost"
+    ],
+    "requires": "|Shovel|"
+  },
+  {
+    "name": "IoF Aroo (N) Dig",
+    "region": "Isle of Frost",
+    "category": [
+      "Isle of Frost"
+    ],
+    "requires": "|Shovel|"
+  },
+  {
+    "name": "IoF Fofo (SE) Dig",
+    "region": "Isle of Frost",
+    "category": [
+      "Isle of Frost"
+    ],
+    "requires": "|Shovel|"
+  },
+  {
+    "name": "IoF East Island Dig",
+    "region": "Isle of Frost",
+    "category": [
+      "Isle of Frost"
+    ],
+    "requires": "|Shovel| and |Grappling Hook|"
+  },
+  {
+    "name": "IoF West Island Dig",
+    "region": "Isle of Frost",
+    "category": [
+      "Isle of Frost"
+    ],
+    "requires": "|Shovel|"
+  },
+  {
+    "name": "IoF Plains East Ledge Chest",
+    "region": "Isle of Frost",
+    "category": [
+      "Isle of Frost"
+    ],
+    "requires": "|Grappling Hook|"
+  },
+  {
+    "name": "IoF Plains South Ledge Chest 1",
+    "region": "Isle of Frost",
+    "category": [
+      "Isle of Frost"
+    ],
+    "requires": "|Grappling Hook|"
+  },
+  {
+    "name": "IoF Plains South Ledge Chest 2",
+    "region": "Isle of Frost",
+    "category": [
+      "Isle of Frost"
+    ],
+    "requires": "|Grappling Hook|"
+  },
+  {
+    "name": "IoF Plains SE Plateau Chest",
+    "region": "Isle of Frost",
+    "category": [
+      "Isle of Frost"
+    ],
+    "requires": "|Grappling Hook|"
+  },
+  {
+    "name": "ToI 3F Chest",
+    "region": "Temple of Ice 3F",
+    "category": [
+      "Temple of Ice"
+    ],
+    "requires": []
+  },
+  {
+    "name": "ToI 3F Switch State Chest",
+    "region": "Temple of Ice Switch State",
+    "category": [
+      "Temple of Ice"
+    ],
+    "requires": []
+  },
+  {
+    "name": "ToI 3F Key Drop",
+    "region": "Temple of Ice Switch State",
+    "category": [
+      "Temple of Ice"
+    ],
+    "requires": "|Boomerang|"
+  },
+  {
+    "name": "ToI Grappling Hook Chest",
+    "region": "Temple of Ice Miniboss",
+    "category": [
+      "Temple of Ice"
+    ],
+    "requires": []
+  },
+  {
+    "name": "ToI B1 Entrance Chest",
+    "region": "Temple of Ice B1",
+    "category": [
+      "Temple of Ice"
+    ],
+    "requires": []
+  },
+  {
+    "name": "ToI B1 Locked Room Chest",
+    "region": "Temple of Ice B1 2",
+    "category": [
+      "Temple of Ice"
+    ],
+    "requires": "|ToI Small Key:2|"
+  },
+  {
+    "name": "ToI B1 South Ledge Chest",
+    "region": "Temple of Ice B1 2",
+    "category": [
+      "Temple of Ice"
+    ],
+    "requires": []
+  },
+  {
+    "name": "ToI B2 Bow Bounce Chest",
+    "region": "Temple of Ice B2",
+    "category": [
+      "Temple of Ice"
+    ],
+    "requires": []
+  },
+  {
+    "name": "ToI B2 Fight Chest",
+    "region": "Temple of Ice B2",
+    "category": [
+      "Temple of Ice"
+    ],
+    "requires": "|ToI Small Key:2|"
+  },
+  {
+    "name": "ToI B2 Boss Key Chest",
+    "region": "Temple of Ice B2",
+    "category": [
+      "Temple of Ice"
+    ],
+    "requires": "|ToI Small Key:2| or |Hammer|"
+  },
+  {
+    "name": "ToI Gleeok Heart Container",
+    "region": "Temple of Ice Boss",
+    "category": [
+      "Temple of Ice"
+    ],
+    "requires": []
+  },
+  {
+    "name": "ToI Gleeok Sand",
+    "region": "Temple of Ice Boss",
+    "category": [
+      "Temple of Ice"
+    ],
+    "requires": []
+  },
+  {
+    "name": "ToI Azurine",
+    "region": "Temple of Ice Boss",
+    "category": [
+      "Temple of Ice"
+    ],
+    "requires": [],
+    "place_item_category": [
+      "McGuffin"
+    ]
+  },
+  {
+    "name": "Harrow Island 1",
+    "region": "Harrow Island",
+    "category": [
+      "Harrow Island"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Harrow Island 2",
+    "region": "Harrow Island",
+    "category": [
+      "Harrow Island"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Harrow Island 3",
+    "region": "Harrow Island",
+    "category": [
+      "Harrow Island"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Harrow Island 4",
+    "region": "Harrow Island",
+    "category": [
+      "Harrow Island"
+    ],
+    "requires": []
+  },
+  {
+    "name": "DS Start Button Dig",
+    "region": "Dee Ess Island",
+    "category": [
+      "Dee Ess Island"
+    ],
+    "requires": "|Shovel|"
+  },
+  {
+    "name": "DS East Speaker SE Dig",
+    "region": "Dee Ess Island",
+    "category": [
+      "Dee Ess Island"
+    ],
+    "requires": "|Shovel|"
+  },
+  {
+    "name": "DS East Speaker SSW Dig",
+    "region": "Dee Ess Island",
+    "category": [
+      "Dee Ess Island"
+    ],
+    "requires": "|Shovel|"
+  },
+  {
+    "name": "DS West Speaker SSW Dig",
+    "region": "Dee Ess Island",
+    "category": [
+      "Dee Ess Island"
+    ],
+    "requires": "|Shovel|"
+  },
+  {
+    "name": "DS West Speaker East-Mid Dig",
+    "region": "Dee Ess Island",
+    "category": [
+      "Dee Ess Island"
+    ],
+    "requires": "|Shovel|"
+  },
+  {
+    "name": "DS West Speaker West Dig",
+    "region": "Dee Ess Island",
+    "category": [
+      "Dee Ess Island"
+    ],
+    "requires": "|Shovel|"
+  },
+  {
+    "name": "DS Cyclopses",
+    "region": "Dee Ess Island",
+    "category": [
+      "Dee Ess Island"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Pirate Ship Ambush",
+    "region": "Ghost Ship 3",
+    "category": [
+      "Ocean SE"
+    ],
+    "requires": "|Ghost Key| and |SE Sea Chart|"
+  },
+  {
+    "name": "DS NW Mic Dig",
+    "region": "Dee Ess Island",
+    "category": [
+      "Dee Ess Island"
+    ],
+    "requires": "|Shovel|"
+  }
+]

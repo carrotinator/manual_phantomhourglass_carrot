@@ -108,9 +108,9 @@ I made a [spreadsheet](https://docs.google.com/spreadsheets/d/1vmAcfJQFSD-9Eqkp-
 ## Further resources
 
 The [github wiki](https://github.com/carrotinator/manual_phantomhourglass_carrot.wiki.git) for this repository has a bunch of info on basically every item and check. Go there if you're stuck or just want to be prepared.  
-There's a [development spreadsheet](https://docs.google.com/spreadsheets/d/1_4Bo1IxLDtaytXj7SQFIAtt9QbPfYDTGZ-CDNf0DXJA/edit?gid=0#gid=0) listing a bunch of internal game values. This has been the foundation for all the memory editing and a huge help.
-The proper [phantom hourglass randomizer](https://github.com/phst-randomizer/ph-randomizer/tree/main) in development. Currently not functional
-The [Phantom Hourglass decomp project](https://github.com/zeldaret/ph)
-The [Phantom Hourglass and Spirit tracks Speedrunner discord](https://discord.gg/T44RaUBFP9)
-The [Archipelago manual discord](https://discord.gg/T5bcsVHByx)
-[Archipelago](https://archipelago.gg/)
+There's a [development spreadsheet](https://docs.google.com/spreadsheets/d/1_4Bo1IxLDtaytXj7SQFIAtt9QbPfYDTGZ-CDNf0DXJA/edit?gid=0#gid=0) listing a bunch of internal game values. This has been the foundation for all the memory editing and a huge help.  
+The proper [phantom hourglass randomizer](https://github.com/phst-randomizer/ph-randomizer/tree/main) in development. Currently not functional?  
+The [Phantom Hourglass decomp project](https://github.com/zeldaret/ph)  
+The [Phantom Hourglass and Spirit tracks Speedrunner discord](https://discord.gg/T44RaUBFP9)  
+The [Archipelago manual discord](https://discord.gg/T5bcsVHByx)  
+[Archipelago](https://archipelago.gg/)  

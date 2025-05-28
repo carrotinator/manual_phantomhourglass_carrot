@@ -104,3 +104,7 @@ D2000000 00000000
 
 ## Calculating item values
 I made a [spreadsheet](https://docs.google.com/spreadsheets/d/1vmAcfJQFSD-9Eqkp-Lbiaa-RWCv5VpM21hLvvyDSgFg/edit?usp=sharing) for calculating the value for each item address, copy it and you can use it! Set the count column under input to as many of the item you’ve gotten, and copy the decimal value in output to its corresponding address in the cheat list menu.
+
+## Further info
+
+The [github wiki](https://github.com/carrotinator/manual_phantomhourglass_carrot.wiki.git) for this repository has a bunch of info on basically every item and check. Go there if you're stuck or just want to be prepared.

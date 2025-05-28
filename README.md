@@ -8,6 +8,7 @@ It is playable, and only *slightly* more annoying than playing a randomizer with
 
 Currently, it is hard glitched logic and keysanity; chests and most item acquisitions as checks as well as tree bonks and dig patches that give 20 rupees or more.  
 Shops, fishing and salvaging are currently not implemented. Neither are treasure, treasure charts or ship parts (although full ship sets are!). But probably will be soon.
+Settings are currently not supported in the yaml, to be added soon.
 
 ## Setup
 

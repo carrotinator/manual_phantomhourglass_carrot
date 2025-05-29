@@ -3,7 +3,8 @@
     "name": "Sword",
     "category": [
       "Item",
-      "Damage"
+      "Damage",
+	  "Sword Category"
     ],
     "count": 2,
     "progression": true
@@ -207,7 +208,8 @@
   {
     "name": "B3 Force Gem",
     "category": [
-      "Key (other)"
+      "Key (other)",
+	  "Randomize Throwables"
     ],
     "count": 3,
     "progression": true
@@ -215,7 +217,8 @@
   {
     "name": "B12 Force Gem",
     "category": [
-      "Key (other)"
+      "Key (other)",
+	  "Randomize Throwables"
     ],
     "count": 3,
     "progression": true
@@ -245,7 +248,7 @@
     "progression": true
   },
   {
-    "count": "2",
+    "count": "3",
     "name": "ToI Small Key",
     "category": [
       "Small Key"
@@ -256,7 +259,8 @@
     "count": 1,
     "name": "ToF Boss Key",
     "category": [
-      "Boss Key"
+      "Boss Key",
+	  "Randomize Throwables"
     ],
     "progression": true
   },
@@ -264,7 +268,8 @@
     "count": 1,
     "name": "ToI Boss Key",
     "category": [
-      "Boss Key"
+      "Boss Key",
+	  "Randomize Throwables"
     ],
     "progression": true
   },
@@ -288,7 +293,8 @@
     "count": 1,
     "name": "ToC Square Crystal",
     "category": [
-      "Key (other)"
+      "Key (other)",
+	  "Randomize Throwables"
     ],
     "progression": true
   },
@@ -296,7 +302,8 @@
     "count": 1,
     "name": "ToC Boss Key",
     "category": [
-      "Boss Key"
+      "Boss Key",
+	  "Randomize Throwables"
     ],
     "progression": true
   },
@@ -312,7 +319,8 @@
     "count": 1,
     "name": "Glyph N",
     "category": [
-      "Warp Glyph"
+      "Warp Glyph",
+	  "Randomize Frogs"
     ],
     "progression": true
   },
@@ -320,7 +328,8 @@
     "count": 1,
     "name": "Glyph A",
     "category": [
-      "Warp Glyph"
+      "Warp Glyph",
+	  "Randomize Frogs"
     ],
     "progression": true
   },
@@ -328,7 +337,8 @@
     "count": 1,
     "name": "Glyph Phi",
     "category": [
-      "Warp Glyph"
+      "Warp Glyph",
+	  "Randomize Frogs"
     ],
     "progression": true
   },
@@ -336,23 +346,26 @@
     "count": 1,
     "name": "Glyph Omega",
     "category": [
-      "Warp Glyph"
+      "Warp Glyph",
+	  "Randomize Frogs"
     ],
-    "progression": true
+    "useful": true
   },
   {
     "count": 1,
     "name": "Glyph W",
     "category": [
-      "Warp Glyph"
+      "Warp Glyph",
+	  "Randomize Frogs"
     ],
-    "progression": true
+    "useful": true
   },
   {
     "count": 1,
     "name": "Glyph Box",
     "category": [
-      "Warp Glyph"
+      "Warp Glyph",
+	  "Randomize Frogs"
     ],
     "progression": true
   },
@@ -368,7 +381,8 @@
     "count": 1,
     "name": "Ghost Ship Triangle Crystal",
     "category": [
-      "Key (other)"
+      "Key (other)",
+	  "Randomize Throwables"
     ],
     "progression": true
   },
@@ -376,7 +390,8 @@
     "count": 1,
     "name": "Ghost Ship Round Crystal",
     "category": [
-      "Key (other)"
+      "Key (other)",
+	  "Randomize Throwables"
     ],
     "useful": true
   },
@@ -392,7 +407,8 @@
     "count": 1,
     "name": "ToW Boss Key",
     "category": [
-      "Boss Key"
+      "Boss Key",
+	  "Randomize Throwables"
     ],
     "progression": true
   },
@@ -464,7 +480,8 @@
     "count": "1",
     "name": "TotOK Square Crystal",
     "category": [
-      "Key (other)"
+      "Key (other)",
+	  "Randomize Throwables"
     ],
     "progression": true
   },
@@ -472,7 +489,8 @@
     "count": "1",
     "name": "TotOK Round Crystal",
     "category": [
-      "Key (other)"
+      "Key (other)",
+	  "Randomize Throwables"
     ],
     "progression": true
   },
@@ -480,7 +498,8 @@
     "count": "1",
     "name": "TotOK Triangle Crystal",
     "category": [
-      "Key (other)"
+      "Key (other)",
+	  "Randomize Throwables"
     ],
     "progression": true
   },
@@ -512,7 +531,8 @@
     "count": "1",
     "name": "Mutoh's Boss Key",
     "category": [
-      "Boss Key"
+      "Boss Key",
+	  "Randomize Throwables"
     ],
     "progression": true
   },
@@ -579,7 +599,8 @@
   {
     "name": "Goron Boss Key",
     "category": [
-      "Boss Key"
+      "Boss Key",
+	  "Randomize Throwables"
     ],
     "count": "1",
     "progression": true
@@ -746,9 +767,297 @@
     "filler": true
   },
   {
+    "name": "Salvage Arm Repair Kit",
+    "category": [
+      "Consumable",
+	  "Randomize Salvage"
+    ],
+    "count": "5",
+    "filler": true
+  },
+  {
     "name": "Jolene's Letter",
     "category": [
       "Trade Quest"
+    ],
+    "count": "1",
+    "progression": true
+  },
+  {
+    "name": "Treasure Map #1 Molida SW",
+    "category": [
+      "Treasure Map",
+	  "Randomize Salvage"
+    ],
+    "count": "1",
+    "progression": true
+  },
+  {
+    "name": "Treasure Map #2 Mercay NE",
+    "category": [
+      "Treasure Map",
+	  "Randomize Salvage"
+    ],
+    "count": "1",
+    "progression": true
+  },
+  {
+    "name": "Treasure Map #3 Gusts SW",
+    "category": [
+      "Treasure Map",
+	  "Randomize Salvage"
+    ],
+    "count": "1",
+    "progression": true
+  },
+  {
+    "name": "Treasure Map #4 Bannan SE",
+    "category": [
+      "Treasure Map",
+	  "Randomize Salvage"
+    ],
+    "count": "1",
+    "progression": true
+  },
+  {
+    "name": "Treasure Map #5 Molida N",
+    "category": [
+      "Treasure Map",
+	  "Randomize Salvage"
+    ],
+    "count": "1",
+    "progression": true
+  },
+  {
+    "name": "Treasure Map #6 Bannan W",
+    "category": [
+      "Treasure Map",
+	  "Randomize Salvage"
+    ],
+    "count": "1",
+    "progression": true
+  },
+  {
+    "name": "Treasure Map #7 Gusts E",
+    "category": [
+      "Treasure Map",
+	  "Randomize Salvage"
+    ],
+    "count": "1",
+    "progression": true
+  },
+  {
+    "name": "Treasure Map #8 Mercay SE",
+    "category": [
+      "Treasure Map",
+	  "Randomize Salvage"
+    ],
+    "count": "1",
+    "progression": true
+  },
+  {
+    "name": "Treasure Map #9 Cannon W",
+    "category": [
+      "Treasure Map",
+	  "Randomize Salvage"
+    ],
+    "count": "1",
+    "progression": true
+  },
+  {
+    "name": "Treasure Map #10 Gusts SE",
+    "category": [
+      "Treasure Map",
+	  "Randomize Salvage"
+    ],
+    "count": "1",
+    "progression": true
+  },
+  {
+    "name": "Treasure Map #11 Gusts N",
+    "category": [
+      "Treasure Map",
+	  "Randomize Salvage"
+    ],
+    "count": "1",
+    "progression": true
+  },
+  {
+    "name": "Treasure Map #12 Dee Ess N",
+    "category": [
+      "Treasure Map",
+	  "Randomize Salvage"
+    ],
+    "count": "1",
+    "progression": true
+  },
+  {
+    "name": "Treasure Map #13 Harrow E",
+    "category": [
+      "Treasure Map",
+	  "Randomize Salvage"
+    ],
+    "count": "1",
+    "progression": true
+  },
+  {
+    "name": "Treasure Map #14 Goron NW",
+    "category": [
+      "Treasure Map",
+	  "Randomize Salvage"
+    ],
+    "count": "1",
+    "progression": true
+  },
+  {
+    "name": "Treasure Map #15 Goron W",
+    "category": [
+      "Treasure Map",
+	  "Randomize Salvage"
+    ],
+    "count": "1",
+    "progression": true
+  },
+  {
+    "name": "Treasure Map #16 Goron NE",
+    "category": [
+      "Treasure Map",
+	  "Randomize Salvage"
+    ],
+    "count": "1",
+    "progression": true
+  },
+  {
+    "name": "Treasure Map #17 Frost S",
+    "category": [
+      "Treasure Map",
+	  "Randomize Salvage"
+    ],
+    "count": "1",
+    "progression": true
+  },
+  {
+    "name": "Treasure Map #18 Cannon S",
+    "category": [
+      "Treasure Map",
+	  "Randomize Salvage"
+    ],
+    "count": "1",
+    "progression": true
+  },
+  {
+    "name": "Treasure Map #19 Gusts NE",
+    "category": [
+      "Treasure Map",
+	  "Randomize Salvage"
+    ],
+    "count": "1",
+    "progression": true
+  },
+  {
+    "name": "Treasure Map #20 Bannan E",
+    "category": [
+      "Treasure Map",
+	  "Randomize Salvage"
+    ],
+    "count": "1",
+    "progression": true
+  },
+  {
+    "name": "Treasure Map #21 Molida NW",
+    "category": [
+      "Treasure Map",
+	  "Randomize Salvage"
+    ],
+    "count": "1",
+    "progression": true
+  },
+  {
+    "name": "Treasure Map #22 Harrow S",
+    "category": [
+      "Treasure Map",
+	  "Randomize Salvage"
+    ],
+    "count": "1",
+    "progression": true
+  },
+  {
+    "name": "Treasure Map #23 Frost NW",
+    "category": [
+      "Treasure Map",
+	  "Randomize Salvage"
+    ],
+    "count": "1",
+    "progression": true
+  },
+  {
+    "name": "Treasure Map #24 Ruins W",
+    "category": [
+      "Treasure Map",
+	  "Randomize Salvage"
+    ],
+    "count": "1",
+    "progression": true
+  },
+  {
+    "name": "Treasure Map #25 Dead E",
+    "category": [
+      "Treasure Map",
+	  "Randomize Salvage"
+    ],
+    "count": "1",
+    "progression": true
+  },
+  {
+    "name": "Treasure Map #26 Ruins SW",
+    "category": [
+      "Treasure Map",
+	  "Randomize Salvage"
+    ],
+    "count": "1",
+    "progression": true
+  },
+  {
+    "name": "Treasure Map #27 Maze E",
+    "category": [
+      "Treasure Map",
+	  "Randomize Salvage"
+    ],
+    "count": "1",
+    "progression": true
+  },
+  {
+    "name": "Treasure Map #28 Ruins NW",
+    "category": [
+      "Treasure Map",
+	  "Randomize Salvage"
+    ],
+    "count": "1",
+    "progression": true
+  },
+  {
+    "name": "Treasure Map #29 Maze W",
+    "category": [
+      "Treasure Map",
+	  "Randomize Salvage"
+    ],
+    "count": "1",
+    "progression": true
+  },
+  {
+    "name": "Treasure Map #30 Ruins S",
+    "category": [
+      "Treasure Map",
+	  "Randomize Salvage"
+    ],
+    "count": "1",
+    "progression": true
+  },
+  {
+    "name": "Treasure Map #31 Dead S",
+    "category": [
+      "Treasure Map",
+	  "Randomize Salvage"
     ],
     "count": "1",
     "progression": true

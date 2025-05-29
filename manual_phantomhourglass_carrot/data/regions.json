@@ -90,7 +90,7 @@
     "requires": []
   },
   "TotOK B3.5": {
-    "requires": "|Grappling Hook| or |B3 Force Gem:3|",
+    "requires": "|Grappling Hook| or |B3 Force Gem:3| or ({YamlDisabled(randomize_throwable_keys)} and |TotOK Small Key:4|)",
     "connects_to": [
       "TotOK B4"
     ]
@@ -117,7 +117,7 @@
       "Molida Island",
       "Spirit Island"
     ],
-    "requires": "|Cannon| or (|Cyclone Slate| and (|Glyph Phi| or (|Glyph N| and |NW Sea Chart|)))"
+    "requires": "|Cannon| or (|@Randomize Frogs| and (|Cyclone Slate| and (|Glyph Phi| or (|Glyph N| and |NW Sea Chart|))))"
   },
   "Cannon Island": {
     "connects_to": [],
@@ -138,7 +138,7 @@
       "Uncharted Island",
       "Zauz's Island"
     ],
-    "requires": "|NW Sea Chart| and (((|Glyph N| or |Glyph Phi|) and |Cyclone Slate|) or |Cannon|)"
+    "requires": "|NW Sea Chart| and ((((|Glyph N| or |Glyph Phi|) and |Cyclone Slate|) and |@Randomize Frogs|) or |Cannon|)"
   },
   "Temple of Fire": {
     "connects_to": [
@@ -166,7 +166,7 @@
   },
   "Temple of Fire 5": {
     "connects_to": [],
-    "requires": "|ToF Boss Key| and |ToF Small Key:3|"
+    "requires": "(|ToF Boss Key| or {YamlDisabled(randomize_throwable_keys)}) and |ToF Small Key:3|"
   },
   "Molida Island": {
     "connects_to": [
@@ -187,28 +187,103 @@
   },
   "Temple of Courage": {
     "connects_to": [
-      "Temple of Courage Maze",
-      "Temple of Courage Final"
+      "Temple of Courage B1",
+      "Temple of Courage Entrance Hammer Clips"
     ],
     "requires": "|Boomerang| and |@Damage|"
   },
+  "Temple of Courage Entrance Hammer Clips": {
+    "connects_to": [
+      "Temple of Courage 1F West",
+	  "Temple of Courage Spike Corridor"
+    ],
+    "requires": "|Hammer| and |@Glitched Logic|"
+  },
+  "Temple of Courage B1": {
+    "connects_to": [
+      "Temple of Courage B1 Grapple",
+	  "Temple of Courage B1 Bombs"
+    ],
+    "requires": "|ToC Small Key:3| or (|ToC Small Key| and {YamlDisabled(glitched_logic)})"
+  },
+  "Temple of Courage B1 Grapple": {
+    "connects_to": [
+	  "Temple of Courage Maze",
+	  "Temple of Courage South 1F Loop"
+    ],
+    "requires": "|Grappling Hook|"
+  },
+  "Temple of Courage South 1F Loop": {
+    "connects_to": [
+	  "Temple of Courage 1F West"
+    ],
+    "requires": "|Bow|"
+  },
+  "Temple of Courage B1 Bombs": {
+    "connects_to": [
+	  "Temple of Courage 1F West"
+    ],
+    "requires": "|@Boom|"
+  },
+  "Temple of Courage 1F West": {
+    "connects_to": [
+      "Temple of Courage 1F West Gem"
+    ],
+    "requires": []
+  },
+  "Temple of Courage 1F West Gem": {
+    "connects_to": [
+      "Temple of Courage Maze"
+    ],
+    "requires": "(|@Randomize Throwables| and |ToC Square Crystal|) or ({YamlDisabled(randomize_throwable_keys)} and (|ToC Small Key:3| or (|ToC Small Key:2| and {YamlDisabled(glitched_logic)})))"
+  },
   "Temple of Courage Maze": {
     "connects_to": [
-      "Temple of Courage Final"
+      "Temple of Courage South 1F"
     ],
-    "requires": "(|ToC Small Key:3| and (|Grappling Hook| or (|@Boom| and |ToC Square Crystal|))) or (|Hammer| and |ToC Square Crystal|) "
+    "requires": []
+  },
+  "Temple of Courage South 1F": {
+    "connects_to": [
+      "Temple of Courage Spike Vanilla",
+	  "Temple of Courage Platforms"
+    ],
+    "requires": "|Bow| and (|@Randomize Throwables| and |ToC Square Crystal|) or ({YamlDisabled(randomize_throwable_keys)} and (|ToC Small Key:3| or (|ToC Small Key:2| and {YamlDisabled(glitched_logic)})))"
+  },
+  "Temple of Courage Platforms": {
+    "connects_to": [],
+    "requires": []
+  },
+  "Temple of Courage Platforms Backwards": {
+    "connects_to": [
+	  "Temple of Courage Platforms"
+	],
+    "requires": "|@Boom|"
+  },
+  "Temple of Courage Spike Vanilla": {
+    "connects_to": [
+	  "Temple of Courage Spike Corridor"
+	],
+    "requires": "|@Boom|"
+  },
+  "Temple of Courage Spike Corridor": {
+    "connects_to": [
+      "Temple of Courage Final",
+	  "Temple of Courage Platforms Backwards"
+    ],
+    "requires": []
   },
   "Temple of Courage Final": {
     "connects_to": [
-      "Temple of Courage Boss"
+	"Temple of Courage Boss"
     ],
-    "requires": "|Hammer| or (|Bow| and (|ToC Small Key:3| and (|Grappling Hook| or (|@Boom| and |ToC Square Crystal|))) or (|Hammer| and |ToC Square Crystal|))"
+    "requires": "|Bow| or (|ToC Small Key:3| or (|ToC Small Key| and {YamlDisabled(glitched_logic)}))"
   },
   "Temple of Courage Boss": {
     "connects_to": [
       "Molida Archery"
     ],
-    "requires": "|Bow| and |ToC Small Key:3| and |ToC Boss Key|"
+    "requires": "|Bow| and |ToC Small Key:3| and ((|ToC Boss Key| and |@Randomize Throwables|) or {YamlDisabled(randomize_throwable_keys)})"
   },
   "Molida Archery": {
     "connects_to": [],
@@ -248,7 +323,7 @@
   },
   "Ghost Ship 3": {
     "connects_to": [],
-    "requires": "|Ghost Ship Triangle Crystal|"
+    "requires": "|Ghost Ship Triangle Crystal| or {YamlDisabled(randomize_throwable_keys)}"
   },
   "Bannan Island East": {
     "connects_to": [],
@@ -262,7 +337,7 @@
   },
   "Temple of Wind Boss": {
     "connects_to": [],
-    "requires": "|ToW Boss Key| and |Bombs|"
+    "requires": "(|ToW Boss Key| or {YamlDisabled(randomize_throwable_keys)}) and |Bombs|"
   },
   "Spirit Island": {
     "connects_to": [],
@@ -284,13 +359,13 @@
     "connects_to": [
       "TotOK B10"
     ],
-    "requires": "|Hammer| or |Bombchus| or (|Bombs| and |TotOK Triangle Crystal|)"
+    "requires": "(|Hammer| and |@Glitched Logic|) or |Bombchus| or (|Bombs| and (|TotOK Triangle Crystal| or {YamlDisabled(randomize_throwable_keys)}))"
   },
   "TotOK B10": {
     "connects_to": [
       "TotOK B11"
     ],
-    "requires": "|TotOK Round Crystal| and |TotOK Square Crystal| and |TotOK Triangle Crystal|"
+    "requires": "(|TotOK Round Crystal| and |TotOK Square Crystal| and |TotOK Triangle Crystal|) or {YamlDisabled(randomize_throwable_keys)}"
   },
   "TotOK B11": {
     "connects_to": [
@@ -308,7 +383,7 @@
     "connects_to": [
       "Bellum"
     ],
-    "requires": "|B12 Force Gem:3|"
+    "requires": "|B12 Force Gem:3| or {YamlDisabled(randomize_throwable_keys)}"
   },
   "SE Ocean": {
     "connects_to": [
@@ -325,7 +400,7 @@
       "Maze Island",
       "Isle of Ruins"
     ],
-    "requires": "|NE Sea Chart| and (|SE Sea Chart| or ((|Cyclone Slate| and |Glyph Box|) and (|Glyph A| or (|Glyph N| and |NW Sea Chart|) or (|Glyph Phi| and (|Cannon| or |NW Sea Chart|)))))"
+    "requires": "|NE Sea Chart| and (|SE Sea Chart| or (|@Randomize Frogs| and ((|Cyclone Slate| and |Glyph Box|) and (|Glyph A| or (|Glyph N| and |NW Sea Chart|) or (|Glyph Phi| and (|Cannon| or |NW Sea Chart|))))))"
   },
   "Goron Island": {
     "connects_to": [
@@ -337,7 +412,7 @@
     "connects_to": [
       "Goron Temple B1"
     ],
-    "requires": "(|Hammer| or |@Boom|) and |Shovel|"
+    "requires": "((|Hammer| and |@Glitched Logic|) or |@Boom|)"
   },
   "Goron Temple B1": {
     "connects_to": [
@@ -349,11 +424,11 @@
     "connects_to": [
       "Goron Temple Boss"
     ],
-    "requires": "|Bombchus| or |Hammer|"
+    "requires": "|Bombchus| or (|Hammer| and |@Glitched Logic|)"
   },
   "Goron Temple Boss": {
     "connects_to": [],
-    "requires": "|Bombchus| and |Goron Boss Key|"
+    "requires": "|Bombchus| and (|Goron Boss Key| or {YamlDisabled(randomize_throwable_keys)})"
   },
   "Isle of Frost": {
     "connects_to": [
@@ -372,7 +447,7 @@
     "connects_to": [
       "Temple of Ice Switch State"
     ],
-    "requires": "(|Boomerang| or |@Boom|) and (|Bow| or |Grappling Hook| or |Bombs| or (|Bombchus| and |Hammer|))"
+    "requires": "(|Boomerang| or |@Boom|) and (|@Range| or |Bombs| or (|Bombchus| and |Hammer| and |@Glitched Logic|))"
   },
   "Temple of Ice Switch State": {
     "connects_to": [
@@ -384,19 +459,19 @@
     "connects_to": [
       "Temple of Ice B1"
     ],
-    "requires": "|ToI Small Key:3|"
+    "requires": "|ToI Small Key:3| or (|ToI Small Key| and {YamlDisabled(glitched_logic)})"
   },
   "Temple of Ice Shortcut": {
     "connects_to": [
       "Temple of Ice B1"
     ],
-    "requires": "|Hammer| and |Grappling Hook|"
+    "requires": "|Hammer| and |Grappling Hook| and |@Glitched Logic|"
   },
   "Temple of Ice B1": {
     "connects_to": [
       "Temple of Ice B1 2"
     ],
-    "requires": "|Hammer| or |@Boom|"
+    "requires": "(|Hammer| and |@Glitched Logic|) or |@Boom|"
   },
   "Temple of Ice B1 2": {
     "connects_to": [
@@ -408,11 +483,11 @@
     "connects_to": [
       "Temple of Ice Boss"
     ],
-    "requires": "|Bow| and |Boomerang| and (|Hammer| or |ToI Small Key:2|)"
+    "requires": "|Bow| and |Boomerang| and ((|@Glitched Logic| and |Hammer|) or |ToI Small Key:3|)"
   },
   "Temple of Ice Boss": {
     "connects_to": [],
-    "requires": "|ToI Boss Key|"
+    "requires": "|ToI Boss Key| or ({YamlDisabled(randomize_throwable_keys)} and (|ToI Small Key:3| or (|Hammer| and |@Glitched Logic|)))"
   },
   "Dee Ess Island": {
     "connects_to": [],
@@ -452,17 +527,17 @@
     "connects_to": [
       "Mutoh's Temple 3"
     ],
-    "requires": "|Hammer|"
+    "requires": "|Hammer| and (|@Glitched Logic| or (|Mutoh's Small Key| and (|Bow| or |Sword|)))"
   },
   "Mutoh's Temple 3": {
     "connects_to": [
       "Eox"
     ],
-    "requires": "|Bow| and |Mutoh's Small Key|"
+    "requires": "|Bow| and |Mutoh's Small Key| or (|Bow| and |@Glitched Logic|)"
   },
   "Eox": {
     "connects_to": [],
-    "requires": "|Mutoh's Boss Key| and |Mutoh's Small Key:2|"
+    "requires": "(|Mutoh's Boss Key| or {YamlDisabled(randomize_throwable_keys)}) and |Mutoh's Small Key:2|"
   },
   "Bellum": {
     "connects_to": [],

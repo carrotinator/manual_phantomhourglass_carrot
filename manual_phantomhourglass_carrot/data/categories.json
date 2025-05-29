@@ -1,36 +1,80 @@
 {
-  "Item": {
-    "yaml_option": [
-      "randomize_items"
-    ]
-  },
-  "Sea Chart": {
-    "yaml_option": [
-      "randomize_sea_charts"
-    ]
-  },
-  "Sword": {
-    "yaml_option": [
-      "randomize_sword"
-    ]
-  },
-  "Ship Item": {
-    "yaml_option": [
-      "randomize_ship_items"
-    ]
-  },
-  "Spirit": {
-    "yaml_option": [
-      "randomize_spirits"
-    ]
-  },
   "Filler": {
     "hidden": true
+  },
+  "Glitched Logic": {
+    "hidden": true,
+	"yaml_option": [
+	  "glitched_logic"
+	]
+  },
+  "Not Glitched Logic": {
+    "hidden": true,
+	"yaml_option": [
+	  "!glitched_logic"
+	]
+  },
+  "Hard Logic": {
+    "hidden": true,
+	"yaml_option": [
+	  "kill_phantoms_without_phantom_sword"
+	]
+  },
+  "Randomize Frogs": {
+    "hidden": true,
+	"yaml_option": [
+	  "randomize_frogs"
+	]
+  },
+  "Randomize Throwables": {
+    "hidden": true,
+	"yaml_option": [
+	  "randomize_throwable_keys"
+	]
+  },
+  "Not Randomize Throwables": {
+    "hidden": true,
+	"yaml_option": [
+	  "!randomize_throwable_keys"
+	]
+  },
+  "Randomize Dig": {
+    "hidden": true,
+	"yaml_option": [
+	  "randomize_rupee_dig_spots"
+	]
+  },
+  "Randomize Bonk": {
+    "hidden": true,
+	"yaml_option": [
+	  "randomize_bonk_trees"
+	]
+  },
+  "Randomize Harrow": {
+    "hidden": true,
+	"yaml_option": [
+	  "randomize_harrow_island"
+	]
+  },
+  "Randomize Salvage": {
+    "hidden": true,
+	"yaml_option": [
+	  "randomize_salvage"
+	]
+  },
+  "Post": {
+    "hidden": false,
+	"yaml_option": [
+	  "randomize_post"
+	]
   },
   "Damage": {
     "hidden": true
   },
   "Bat": {
+    "hidden": true
+  },
+  "Sword Category": {
     "hidden": true
   },
   "Boom": {
@@ -57,8 +101,10 @@
   "SpiritW": {
     "hidden": true
   },
-  
   "McGuffin": {
+    "hidden": true
+  },
+  "Mercay Passage": {
     "hidden": true
   }
 }

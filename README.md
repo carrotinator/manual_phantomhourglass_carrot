@@ -124,3 +124,4 @@ I made a [spreadsheet](https://docs.google.com/spreadsheets/d/1vmAcfJQFSD-9Eqkp-
 - [Manual Archipelgo Discord](https://discord.gg/T5bcsVHByx) (where the official discord channel is)
 - [Phantom Hourglass and Spirit Tracks Speedrunning Discord](https://discord.gg/T44RaUBFP9)
 - The 'proper', non manual [phantom hourglass randomizer](https://github.com/phst-randomizer/ph-randomizer)
+- [Phantom Hourglass Decomp Project](https://github.com/AetiasHax/ph)

@@ -15,6 +15,7 @@ Currently, keysanity for small keys is enabled by default. The settings that can
 - Rupee dig spots
 - Harrow island
 - Salvage and treasure
+- Post
 
 Things that aren't randomized yet
 

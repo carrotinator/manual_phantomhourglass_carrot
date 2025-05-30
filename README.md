@@ -117,3 +117,10 @@ D2000000 00000000
 
 ## Calculating item values
 I made a [spreadsheet](https://docs.google.com/spreadsheets/d/1vmAcfJQFSD-9Eqkp-Lbiaa-RWCv5VpM21hLvvyDSgFg/edit?usp=sharing) for calculating the value for each item address, copy it and you can use it! Set the count column under input to as many of the item you’ve gotten, and copy the decimal value in output to its corresponding address in the cheat list menu.
+
+## Resources
+
+- [Phantom Hourglass Dev Spreadsheet](https://docs.google.com/spreadsheets/d/1_4Bo1IxLDtaytXj7SQFIAtt9QbPfYDTGZ-CDNf0DXJA/edit?gid=0#gid=0)
+- [Manual Archipelgo Discord](https://discord.gg/T5bcsVHByx) (where the official discord channel is)
+- [Phantom Hourglass and Spirit Tracks Speedrunning Discord](https://discord.gg/T44RaUBFP9)
+- The 'proper', non manual [phantom hourglass randomizer](https://github.com/phst-randomizer/ph-randomizer)

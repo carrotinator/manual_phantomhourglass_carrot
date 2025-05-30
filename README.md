@@ -6,9 +6,21 @@ It is playable, and only *slightly* more annoying than playing a randomizer with
 
 ## Settings
 
-Currently, it is hard glitched logic and keysanity; chests and most item acquisitions as checks as well as tree bonks and dig patches that give 20 rupees or more.  
-Shops, fishing and salvaging are currently not implemented. Neither are treasure, treasure charts or ship parts (although full ship sets are!). But probably will be soon.
-Settings are currently not supported in the yaml, to be added soon.
+Currently, keysanity for small keys is enabled by default. The settings that can currently be changed in the yaml are:
+
+- Glitched Logic
+- Kill phantoms without phantom sword
+- Throwable keys, like boss keys, force gems and shape crystals
+- Frogs and glyphs
+- Rupee dig spots
+- Harrow island
+- Salvage and treasure
+
+Things that aren't randomized yet
+
+- Shops, rupees and treasure
+- Fish
+- Triforce crest in TotOK
 
 ## Setup
 
@@ -33,6 +45,7 @@ Settings are currently not supported in the yaml, to be added soon.
 | 021BA502    | 0                            | Wisdom Gem Count                               | 1 byte   |
 | 021BA500    | 0                            | Courage Gem Count                              | 1 byte   |
 | 021BA4FE    | 0                            | Rupee Count                                    | 2 bytes  |
+| 021BA610    | 0                            | Treasure Maps                                  | 4 bytes  |
 
 4. For starting flags, add the following, version dependent (i’ve done most of my testing on US) action replay code. Do not enable yet.
     - This tries to remove as many cutscenes as possible, allows for sequence breaks without softlocking and opens up islands a bit. It’s not perfect, and it doesn’t affect scene flags. A planned future part of the project is to create a starting save file that has already warped around the world and triggered a bunch of scene flag dialogue, but the codes will work from a fresh savefile. For more details on what it includes, see the section on checks.

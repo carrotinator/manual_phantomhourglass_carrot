@@ -1,5 +1,7 @@
 # Archipelago Manual for The Legend of Zelda: Phantom Hourglass
 
+THIS PROJECT IS DISCONTINUED IN FAVOR OF ITS SPIRITUAL SUCCESSOR [HERE](https://github.com/carrotinator/Archipelago)
+
 ## Is it functional?
 
 It is playable, and only *slightly* more annoying than playing a randomizer with a manual tracker. It relies on the DeSmuMe cheat list to freeze and change your inventory directly in memory. To set the right values, I've got a [spreadsheet](https://docs.google.com/spreadsheets/d/1vmAcfJQFSD-9Eqkp-Lbiaa-RWCv5VpM21hLvvyDSgFg/edit?usp=sharing) that can calculate what to copy paste in for each memory address. There is kinda a lot of setup involved, but once that’s done it’s not so bad.  It could probably be streamlined with a bit of lua scripting, but I haven’t looked into that yet.
